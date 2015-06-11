@@ -1,0 +1,173 @@
+salle blanche
+milieu contrôlé
+température
+hygrométrie
+vibration
+taille
+distribution en taille
+forme
+état d’agglomération
+agrégation
+composition chimique
+structure cristallographique
+surface spécifique
+charge de surface
+évaluation des risques
+exigences réglementaires
+déclaration annuelle des substances à l’état nanoparticulaire
+nanocaractérisation
+plateforme Nanosécurité
+CEA
+Grenoble
+traçabilité
+mesures dimensionnelles
+microscope électronique à champ proche
+Spintronique
+électronique de spin
+électronique
+magnétisme
+matériaux
+système anti
+matériau magnétique
+matériau
+matériau métallique
+semi-conducteurs
+résistivité
+libre parcours moyen
+isolant
+électron
+courant polarisé en spinmagnétique
+système antiartificiel
+caractéristiques électriques
+propriétés magnétiques
+champs mangétique
+dispositif
+phénomène
+magnétorésistance tunnel
+variation de résistance relative
+magnétorésistance géante
+mémoire magnétique
+capteur
+mémoire magnétique non volatile à accès aléatoire
+capteur mécanique
+moment magnétique
+spin
+transistor
+longueur de diffusion
+anisotropie
+moment magnétique global
+relation directionnelle
+champ d'anisotropie
+parallélisme
+fluctuation
+pôle
+réversibilité
+capteur d'intensité de champs
+capteur à effet Hall
+capteur de rotation
+couches minces
+capteur magnétorésistif
+couche douce
+rigidité magnétique
+jonction tunnel
+couplage anti
+couplage
+couche dure
+conductance
+couplage d'échange indirect
+alignement parallèle
+alignement antiparallèle
+random access memory
+hysteresis loop
+magnetic force
+magnetic domains
+experimental data
+ferromagnetic layer
+magnetic fields
+x-ray
+magnetic domain
+thin film
+spatial resolution
+magnetic moment
+incubation time
+experimental results
+hysteresis loops
+magnetic field
+electron microscopy
+Monte Carlo
+thermal fluctuations
+time scales
+current pulses
+angular momentum
+current pulse
+electron diffraction
+low voltage
+square root
+driving force
+spin polarization
+room temperature
+electron transport
+orders of magnitude
+thin films
+ocean circulation
+remote sensing
+quality control
+deep water
+infrared sensors
+polarized light
+magnetic recording
+light-emitting diode
+charge carriers
+excited state
+Curie temperature
+thermodynamic model
+Synchrotron Radiation
+structural defects
+electronic states
+Fermi level
+field measurements 
+low temperatures
+experimental study
+time limit
+physical processes
+short time
+cross section
+direct currents
+hot electrons
+magnetization directions
+hot topic
+time scale
+ambient temperatures
+low temperature
+electric field
+binding energy
+potential well
+magnetic resonance
+single crystal
+circular dichroism
+valence band
+negative voltage
+positive voltage
+hot electron
+take place
+magnetization curve
+high temperature
+temperature sensor
+data storage
+laser pulses
+real time
+electrical resistance
+structural changes
+quantitative analysis
+liver disease
+fatty acids
+Fatty acid
+Hysteresis loops
+magnetic moments
+absorption edge
+barrier layer
+Hall effect
+key elements
+magnetic layers
+piece of information
+wave function
