@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Lu, Y; Lacour, D; Lengaigne, G; Le Gall, S; Suire, S; Montaigne, F; Hehn, M; Wu, MW</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Lu, Y.; Lacour, D.; Lengaigne, G.; Le Gall, S.; Suire, S.; Montaigne, F.; Hehn, M.; Wu, M. W.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Electrical control of interfacial trapping for magnetic tunnel transistor on silicon</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>SPIN-VALVE TRANSISTOR; HYDROGEN; KINETICS; SURFACE</ID>
+   <AB>We demonstrate an electrical control of an interfacial trapping effect for hot electrons injected in silicon by studying a magnetic tunnel transistor on wafer bonded Si substrate. Below 25 K, hot electrons are trapped at the Cu/Si interface, resulting in collector current suppression through scattering in both parallel and antiparallel magnetic configurations. Consequently, the magneto-current ratio strongly decreases from 300% at 27K to 30% at 22 K. The application of a relatively small electric field (similar to 333 V/cm) across the Cu/Si interface is enough to strip the trapped electrons and restore the magneto-current ratio at low temperature. We also present a model taking into account the effects of both electric field and temperature that closely reproduces the experimental results and allows extraction of the trapping binding energy (similar to 1.6meV). (C) 2014 AIP Publishing LLC.</AB>
+   <C1>[Lu, Y.; Lacour, D.; Lengaigne, G.; Le Gall, S.; Suire, S.; Montaigne, F.; Hehn, M.] Univ Lorraine, CNRS, Inst Jean Lamour, UMR 7198, F-54506 Vandoeuvre Les Nancy, France; [Wu, M. W.] Univ Sci & Technol China, Dept Phys, Hefei Natl Lab Phys Sci Microscale, Hefei 230026, Anhui, Peoples R China</C1>
+   <RP>Lu, Y (reprint author), Univ Lorraine, CNRS, Inst Jean Lamour, UMR 7198, Blvd Aiguillettes,BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>yuan.lu@univ-lorraine.fr</EM>
+   <RI>Lu, Yuan/M-9239-2014</RI>
+   <OI>Lu, Yuan/0000-0003-3337-8205</OI>
+   <FU>French ANR SpinPress Project [ANR-09-BLAN-076]; France-China (ANR-NSFC) SISTER Project [ANR-11-IS10-0001]</FU>
+   <FX>The authors thank Robert Tolley for help of improving the English writing. This work is supported by French ANR SpinPress Project (ANR-09-BLAN-076) and joint France-China (ANR-NSFC) SISTER Project (ANR-11-IS10-0001).</FX>
+   <CR></CR>
+   <NR>29</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI>1077-3118</EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>JAN 27</PD>
+   <PY>2014</PY>
+   <VL>104</VL>
+   <IS>4</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>042408</AR>
+   <DI>10.1063/1.4863689</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>AA6LN</GA>
+   <UT>WOS:000331209900051</UT>
+   <PM></PM>
+</bibliography>

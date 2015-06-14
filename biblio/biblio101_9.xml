@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Reckers, N; Cucchiara, J; Posth, O; Hassel, C; Romer, FM; Narkowicz, R; Gallardo, RA; Landeros, P; Zahres, H; Mangin, S; Katine, JA; Fullerton, EE; Dumpich, G; Meckenstock, R; Lindner, J; Farle, M</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Reckers, N.; Cucchiara, J.; Posth, O.; Hassel, C.; Roemer, F. M.; Narkowicz, R.; Gallardo, R. A.; Landeros, P.; Zaehres, H.; Mangin, S.; Katine, J. A.; Fullerton, E. E.; Dumpich, G.; Meckenstock, R.; Lindner, J.; Farle, M.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Effect of microwave irradiation on spin-torque-driven magnetization precession in nanopillars with magnetic perpendicular anisotropy</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>POLARIZED CURRENT; PHASE-LOCKING; GENERATION; MULTILAYERS; REVERSAL; DEVICES</ID>
+   <AB>The effect of microwave irradiation on the spin-torque-driven magnetization dynamics is studied in (Co/Ni)-based nanopillar spin valves with perpendicular magnetic anisotropy. For this purpose, a setup was developed to measure the ac as well as the dc resistance of the nanopillar under applied fields and injected polarized currents, while irradiating microwaves with varying frequency (6-18 GHz) and power. We find that the microwave irradiation amplifies and maintains the precessional state of the eigenresonance within a larger field range. The experiments are discussed in comparison to micromagnetic as well as macrospin simulations utilizing the nonlinearized Landau-Lifshitz-Gilbert equation.</AB>
+   <C1>[Reckers, N.; Posth, O.; Hassel, C.; Roemer, F. M.; Zaehres, H.; Dumpich, G.; Meckenstock, R.; Lindner, J.; Farle, M.] Fac Phys, DE-47057 Duisdurg, Germany; [Reckers, N.; Posth, O.; Hassel, C.; Roemer, F. M.; Zaehres, H.; Dumpich, G.; Meckenstock, R.; Lindner, J.; Farle, M.] Ctr Nanointegrat CeNIDE, DE-47057 Duisdurg, Germany; [Reckers, N.; Posth, O.; Hassel, C.; Roemer, F. M.; Zaehres, H.; Dumpich, G.; Meckenstock, R.; Lindner, J.; Farle, M.] Univ Duisburg Essen, DE-47057 Duisdurg, Germany; [Cucchiara, J.; Mangin, S.] Nancy Univ, Lab Phys Mat, CNRS, FR-54506 Vandoeuvre Les Nancy, France; [Narkowicz, R.] Univ Dortmund, Dept Phys, DE-44227 Dortmund, Germany; [Gallardo, R. A.; Landeros, P.] Univ Tecn Federico Santa Maria, Dept Fis, Valparaiso 2390123, Chile; [Katine, J. A.] Hitachi Global Storage Technol, San Jose, CA 95135 USA; [Fullerton, E. E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA; [Fullerton, E. E.] Univ Calif San Diego, Dept Elect & Comp Engn, La Jolla, CA 92093 USA</C1>
+   <RP>Reckers, N (reprint author), Fac Phys, Lotharstr 1, DE-47057 Duisdurg, Germany.</RP>
+   <EM>nathalie.reckers@uni-due.de</EM>
+   <RI>Landeros, Pedro/B-4603-2012; Gastelois, Pedro/F-3891-2012; Fullerton, Eric/H-8445-2013; Farle, Michael/A-3647-2010</RI>
+   <OI>Landeros, Pedro/0000-0002-0927-1419; Fullerton, Eric/0000-0002-4725-9509; Farle, Michael/0000-0002-1864-3261</OI>
+   <FU>Deutsche Forschungsgemeinschaft [SFB 491]; National Science Foundation [DMR-1008654]; CONICYT; FONDECYT [11080246]; program "Financiamiento Basal para Centros Cientificos y Tecnologicos de Excelencia" CE-DENNA [FB0807]; ISTRADE; FRIENDS ANR</FU>
+   <FX>We acknowledge financial support by the Deutsche Forschungsgemeinschaft (SFB 491) and National Science Foundation Award No. DMR-1008654, CONICYT, FONDECYT 11080246, the program "Financiamiento Basal para Centros Cientificos y Tecnologicos de Excelencia" CE-DENNA FB0807, ISTRADE, and FRIENDS ANR program.</FX>
+   <CR></CR>
+   <NR>27</NR>
+   <TC>7</TC>
+   <Z9>7</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>MAY 25</PD>
+   <PY>2011</PY>
+   <VL>83</VL>
+   <IS>18</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>184427</AR>
+   <DI>10.1103/PhysRevB.83.184427</DI>
+   <D2></D2>
+   <PG>8</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>768NP</GA>
+   <UT>WOS:000290942100006</UT>
+   <PM></PM>
+</bibliography>

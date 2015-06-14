@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Le Gall, S; Cucchiara, J; Gottwald, M; Berthelot, C; Lambert, CH; Henry, Y; Bedau, D; Gopman, DB; Liu, H; Kent, AD; Sun, JZ; Lin, W; Ravelosona, D; Katine, JA; Fullerton, EE; Mangin, S</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Le Gall, S.; Cucchiara, J.; Gottwald, M.; Berthelot, C.; Lambert, C. -H.; Henry, Y.; Bedau, D.; Gopman, D. B.; Liu, H.; Kent, A. D.; Sun, J. Z.; Lin, W.; Ravelosona, D.; Katine, J. A.; Fullerton, Eric E.; Mangin, S.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>State diagram of nanopillar spin valves with perpendicular magnetic anisotropy</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>TUNNEL-JUNCTIONS; TRANSFER TORQUE; POLARIZED CURRENTS; ELECTRIC-CURRENT; DOMAIN-WALLS; DRIVEN; DYNAMICS; REVERSAL; FIELD; NANOMAGNET</ID>
+   <AB>The spin-torque switching of metallic nanopillar spin valves showing strong perpendicular anisotropy are studied. The magnetic states of the layers depend on extrinsic parameters such as the magnetic field and the dc current applied to the device. A state diagram presents a comprehensive graph of the role of those parameters on the spin-valve magnetic response. After explaining how state diagrams can be built and the different possible representation, experimental state diagrams are studied for perpendicular devices and the influence of lateral size, temperature, and field orientation are shown. An analytical model of a purely uniaxial system is presented. It is shown that this simple model does not properly reflect the experimental results, whereas if the symmetry is broken a qualitative agreement is obtained. Finally, the possible origins of the symmetry break are discussed in light of an analytical model and numerical simulations.</AB>
+   <C1>[Le Gall, S.; Cucchiara, J.; Gottwald, M.; Berthelot, C.; Lambert, C. -H.; Mangin, S.] Nancy Univ, Inst Jean Lamour, UMR CNRS 7198, Vandoeuvre Les Nancy, France; [Henry, Y.] UDS, Inst Phys & Chim Mat Strasbourg, CNRS, Strasbourg, France; [Bedau, D.; Gopman, D. B.; Liu, H.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Sun, J. Z.] IBM TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA; [Lin, W.; Ravelosona, D.] Univ Paris 11, Inst Elect Fondamentale, UMR CNRS 8622, Paris, France; [Katine, J. A.] Hitachi Global Storage Technol, San Jose Res Ctr, San Jose, CA USA; [Fullerton, Eric E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA</C1>
+   <RP>Le Gall, S (reprint author), Nancy Univ, Inst Jean Lamour, UMR CNRS 7198, Vandoeuvre Les Nancy, France.</RP>
+   <EM></EM>
+   <RI>Fullerton, Eric/H-8445-2013; Lin, Weiwei/D-4870-2009; Sun, Jonathan/C-2773-2009</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509; Lin, Weiwei/0000-0002-8567-0323; </OI>
+   <FU>Partner University Fund; NSF [DMR-1008654];  [ANR-10-BLAN-1005]</FU>
+   <FX>We thank very much S. Suire, M. Hehn, D. Lacour and F. Montaigne for their technical support with transport measurements experiments. This work was supported by The Partner University Fund "Novel Magnetic Materials for Spin Torque Physics and Devices," NSF Award No. DMR-1008654 and the ANR-10-BLAN-1005 "Friends."</FX>
+   <CR></CR>
+   <NR>106</NR>
+   <TC>7</TC>
+   <Z9>7</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>JUL 18</PD>
+   <PY>2012</PY>
+   <VL>86</VL>
+   <IS>1</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>014419</AR>
+   <DI>10.1103/PhysRevB.86.014419</DI>
+   <D2></D2>
+   <PG>16</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>975JM</GA>
+   <UT>WOS:000306507600003</UT>
+   <PM></PM>
+</bibliography>

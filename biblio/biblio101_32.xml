@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Liang, SH; Zhang, TT; Barate, P; Frougier, J; Vidal, M; Renucci, P; Xu, B; Jaffres, H; George, JM; Devaux, X; Hehn, M; Marie, X; Mangin, S; Yang, HX; Hallal, A; Chshiev, M; Amand, T; Liu, HF; Liu, DP; Han, XF; Wang, ZG; Lu, Y</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Liang, S. H.; Zhang, T. T.; Barate, P.; Frougier, J.; Vidal, M.; Renucci, P.; Xu, B.; Jaffres, H.; George, J. -M.; Devaux, X.; Hehn, M.; Marie, X.; Mangin, S.; Yang, H. X.; Hallal, A.; Chshiev, M.; Amand, T.; Liu, H. F.; Liu, D. P.; Han, X. F.; Wang, Z. G.; Lu, Y.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Large and robust electrical spin injection into GaAs at zero magnetic field using an ultrathin CoFeB/MgO injector</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>LIGHT-EMITTING DIODE; METAL/TUNNEL BARRIER CONTACT; TOTAL-ENERGY CALCULATIONS; AUGMENTED-WAVE METHOD; ROOM-TEMPERATURE; BASIS-SET; HETEROSTRUCTURES; SEMICONDUCTORS; EFFICIENCY; ANISOTROPY</ID>
+   <AB>Binary information encoded within the spin of carriers can be transferred into corresponding right-or left-handed circularly polarized photons emitted from an active semiconductor medium via carrier-photon angular momentum conversion. In order to attain maximized spin injection at out-of-plane magnetic remanence, a number of material systems have been explored as possible solid-state spin injectors. However, the circular polarization (P-C) of emitted light was still limited at 3-4% at remanence. Here, we demonstrate a sizable electroluminescence circular polarization from a III-V-based spin light-emitting diode at zero magnetic field with a perpendicular spin injector consisting of an ultrathin CoFeB ferromagnetic layer (1.2 nm) grown on a MgO tunnel barrier (2.5 nm). The maximum value of P-C measured at zero field is as large as 20% at 25 K and still 8% at 300 K. These types of ultrathin perpendicular spin injectors are of great interest (i) to realize the electrical switching of the magnetization of the injector layer owing to the advanced spin-transfer torque properties of the CoFeB layer and (ii) to be directly embedded in optical cavities for spin lasers due to their very low optical absorption loss.</AB>
+   <C1>[Liang, S. H.; Devaux, X.; Hehn, M.; Mangin, S.; Lu, Y.] Nancy Univ, CNRS, UMR 7198, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France; [Liang, S. H.; Liu, H. F.; Liu, D. P.; Han, X. F.] Chinese Acad Sci, Inst Phys, Beijing Natl Lab Condensed Matter Phys, Beijing 100190, Peoples R China; [Zhang, T. T.; Barate, P.; Vidal, M.; Renucci, P.; Marie, X.; Amand, T.] Univ Toulouse, INSA CNRS UPS, LPCNO, F-31077 Toulouse, France; [Frougier, J.; Jaffres, H.; George, J. -M.] Unite Mixte Phys CNRS Thales, F-91767 Palaiseau, France; [Frougier, J.; Jaffres, H.; George, J. -M.] Univ Paris 11, F-91767 Palaiseau, France; [Xu, B.; Wang, Z. G.] Chinese Acad Sci, Inst Semicond, Key Lab Semicond Mat Sci, Beijing 100083, Peoples R China; [Yang, H. X.; Hallal, A.; Chshiev, M.] CEA INAC CNRS UJF Grenoble 1 G INP, UMR 8191, SPINTEC, F-38054 Grenoble, France</C1>
+   <RP>Lu, Y (reprint author), Nancy Univ, CNRS, UMR 7198, Inst Jean Lamour, BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>yuan.lu@univ-lorraine.fr</EM>
+   <RI>Yang, HongXin/H-5719-2012; Chshiev, Mairbek/A-9742-2008; Lu, Yuan/M-9239-2014</RI>
+   <OI>Chshiev, Mairbek/0000-0001-9232-7622; Lu, Yuan/0000-0003-3337-8205</OI>
+   <FU>China Scholarship Council; French National Research Agency (ANR)-National Science Foundation of China (NSFC) SISTER project [ANR-11-IS10-0001, NNSFC 61161130527]; French ANR INSPIRE project [ANR-10-BLAN-1014]</FU>
+   <FX>We thank T. Hauet for the help with SQUID measurements and also acknowledge Y. Zheng and D. Demaille for their help with the TEM sample preparation. S.H. Liang acknowledges the joint Ph.D. scholarship from the China Scholarship Council. This work is supported by the joint French National Research Agency (ANR)-National Science Foundation of China (NSFC) SISTER project (Grants No. ANR-11-IS10-0001 and No. NNSFC 61161130527) and French ANR INSPIRE project (Grant No. ANR-10-BLAN-1014).</FX>
+   <CR></CR>
+   <NR>55</NR>
+   <TC>1</TC>
+   <Z9>1</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI>1550-235X</EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>AUG 22</PD>
+   <PY>2014</PY>
+   <VL>90</VL>
+   <IS>8</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>085310</AR>
+   <DI>10.1103/PhysRevB.90.085310</DI>
+   <D2></D2>
+   <PG>9</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>AO3NR</GA>
+   <UT>WOS:000341238600003</UT>
+   <PM></PM>
+</bibliography>

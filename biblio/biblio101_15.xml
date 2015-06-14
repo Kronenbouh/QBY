@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Bonell, F; Andrieu, S; Tiusan, C; Montaigne, F; Snoeck, E; Belhadji, B; Calmels, L; Bertran, F; Le Fevre, P; Taleb-Ibrahimi, A</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Bonell, F.; Andrieu, S.; Tiusan, C.; Montaigne, F.; Snoeck, E.; Belhadji, B.; Calmels, L.; Bertran, F.; Le Fevre, P.; Taleb-Ibrahimi, A.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Influence of misfit dislocations on the magnetoresistance of MgO-based epitaxial magnetic tunnel junctions</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>FE(001); STRAIN</ID>
+   <AB>Magnetotransport in epitaxial magnetic tunnel junctions is investigated while varying the density of dislocations in the MgO barrier. Fe-V alloys with variable composition and lattice mismatch with MgO are used as electrodes. The reduction in the dislocation density was probed by reflection high-energy electron diffraction and high-resolution electron microscopy. Spin-resolved photoemission together with first-principles calculations were used to study the Delta bands in the alloys. Although their polarization decreases upon alloying, the tunnel magnetoresistance is enhanced for low V content as a consequence of the better structural coherency. Our results demonstrate the direct relation between the density of dislocations in the epitaxial barrier and the tunnel magnetoresistance amplitude.</AB>
+   <C1>[Bonell, F.; Andrieu, S.; Tiusan, C.; Montaigne, F.] Nancy Univ, CNRS, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France; [Snoeck, E.; Belhadji, B.; Calmels, L.] Univ Toulouse, CNRS, CEMES, F-31055 Toulouse 4, France; [Bertran, F.; Le Fevre, P.; Taleb-Ibrahimi, A.] CNRS UR1, SOLEIL Synchrotron, F-91192 Gif Sur Yvette, France</C1>
+   <RP>Andrieu, S (reprint author), Nancy Univ, CNRS, Inst Jean Lamour, BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>stephane.andrieu@ijl.nancy-universite.fr</EM>
+   <RI>Bonell, Frederic/C-7209-2011; BERTRAN, Francois/B-7515-2008; Tiusan, Coriolan/F-1564-2011</RI>
+   <OI>BERTRAN, Francois/0000-0002-2416-0514; Tiusan, Coriolan/0000-0003-1338-3867</OI>
+   <FU>ANR [BLAN07-188976]; French CNRS; CEA "METSA" network</FU>
+   <FX>We acknowledge support from the ANR under Contract No. BLAN07-188976 (SPINCHAT). The calculations presented in this Brief Report have been performed at the CALMIP/UPS Toulouse parallel computer center. The HR-TEM analysis is supported by the French CNRS and CEA "METSA" network.</FX>
+   <CR></CR>
+   <NR>19</NR>
+   <TC>21</TC>
+   <Z9>21</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>SEP 29</PD>
+   <PY>2010</PY>
+   <VL>82</VL>
+   <IS>9</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>092405</AR>
+   <DI>10.1103/PhysRevB.82.092405</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>655SH</GA>
+   <UT>WOS:000282269300001</UT>
+   <PM></PM>
+</bibliography>

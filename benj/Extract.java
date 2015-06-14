@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 
 public class Extract {
 	
-    public static void extract1(String path, String sep, File out) throws IOException {
+    private static void extract1(String path, String sep, File out) throws IOException {
         StringBuilder sb    = new StringBuilder();
         File          input = new File(path);
         for (String line : Files.readAllLines(Paths.get(input.toURI()))) sb.append(line);
@@ -53,7 +53,7 @@ public class Extract {
         bw.close();
     }
     
-    public static void extract2(String path, File out) throws IOException {
+    private static void extract2(String path, File out) throws IOException {
         StringBuilder sb    = new StringBuilder();
         File          input = new File(path);
         for (String line : Files.readAllLines(Paths.get(input.toURI()))) sb.append(line);
@@ -72,33 +72,19 @@ public class Extract {
         bw.close();
     }
         
-    public static void doExtract(String inPath, String outPath, int N) throws IOException {
+    public static void doExtract(String inPath, String outPath, int N) {
     	
     	File out = new File(String.format(outPath+"/data/relation.txt"));
     	
-    	System.out.println(N);
-    	
-    	if(out.exists()){
-    		out.delete();
-    		out.createNewFile();
-    	}
-    	
-    	else{
-    		out.createNewFile();
-    	}
-    	
-    	for(int i=1;i<=N;i++){
-    		File out2=new File(String.format(outPath+String.format("/data/abstract/biblio101_%s.txt",i)));
-    		if(out2.exists()){
-        		out2.delete();
-        		out2.createNewFile();
-        	}
-        	
-        	else{
-        		out2.createNewFile();
-        	}
-    		extract1(String.format(inPath+String.format("/biblio/biblio101_%s.xml",i)),";",out);
-        	extract2(String.format(inPath+String.format("/biblio/biblio101_%s.xml",i)),out2);
+    	for(int i=1 ; i<=N ; i++) {
+    		try {
+	    		File out2=new File(String.format(outPath+String.format("/data/abstract/biblio101_%s.txt",i)));
+	        	
+	    		extract1(String.format(inPath+String.format("/biblio/biblio101_%s.xml",i)),";",out);
+	        	extract2(String.format(inPath+String.format("/biblio/biblio101_%s.xml",i)),out2);
+    		} catch (IOException e) {
+    			throw new RuntimeException(e);
+    		}
     	}
     }
 }

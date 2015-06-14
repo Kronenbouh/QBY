@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Bernstein, DP; Brauer, B; Kukreja, R; Stohr, J; Hauet, T; Cucchiara, J; Mangin, S; Katine, JA; Tyliszczak, T; Chou, KW; Acremann, Y</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Bernstein, David P.; Braeuer, Bjoern; Kukreja, Roopali; Stoehr, Joachim; Hauet, Thomas; Cucchiara, Julien; Mangin, Stephane; Katine, Jordan A.; Tyliszczak, Tolek; Chou, Kang W.; Acremann, Yves</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Nonuniform switching of the perpendicular magnetization in a spin-torque-driven magnetic nanopillar</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID></ID>
+   <AB>Time-resolved scanning transmission x-ray microscopy measurements were performed to study the current-induced magnetization switching mechanism in nanopillars exhibiting strong perpendicular magnetic anisotropy. This technique provides both short-time (70 ps) and high-spatial (25 nm) resolutions. Direct imaging of the magnetization demonstrates that, after an incubation time of similar to 1.3 ns, a 100 x 300 nm(2) ellipsoidal device switches in similar to 1 ns via a central domain nucleation and opposite propagation of two domain walls toward the edges. High domain-wall velocities on the order of 100 m/s are measured. Micromagnetic simulations are shown to be in good agreement with experimental results and provide insight into magnetization dynamics during the incubation and reversal periods.</AB>
+   <C1>[Bernstein, David P.; Braeuer, Bjoern; Kukreja, Roopali; Stoehr, Joachim] Stanford Inst Mat & Energy Sci, SLAC Natl Accelerator Lab, Menlo Pk, CA 94025 USA; [Hauet, Thomas; Cucchiara, Julien; Mangin, Stephane] Nancy Univ, UPV Metz, CNRS, Inst Jean Lamour, Vandoeuvre Les Nancy, France; [Hauet, Thomas; Katine, Jordan A.] Hitachi Global Storage Technol, San Jose, CA 95119 USA; [Tyliszczak, Tolek; Chou, Kang W.] Univ Calif Berkeley, Lawrence Berkeley Lab, Adv Light Source, Berkeley, CA 94720 USA; [Acremann, Yves] ETH, Solid State Phys Lab, Zurich, Switzerland</C1>
+   <RP>Bernstein, DP (reprint author), Stanford Inst Mat & Energy Sci, SLAC Natl Accelerator Lab, Menlo Pk, CA 94025 USA.</RP>
+   <EM></EM>
+   <RI></RI>
+   <OI></OI>
+   <FU>US Department of Energy, Office of Science, Office of Basic Energy Science [DE-AC02-76SF00515]; German Research Foundation (DFG); Office of Science, Office of Basic Energy Sciences, of the US Department of Energy [DE-AC02-05CH11231]</FU>
+   <FX>The authors would like to thank Olav Hellwig for his help with the PMA deposition process, H. Tomita, Y. Suzuki, A. Kent, and E. E. Fullerton for discussions, and the US Department of Energy, Office of Science, Office of Basic Energy Science for its continued support under Contract No. DE-AC02-76SF00515. B. B. acknowledges support from the German Research Foundation (DFG). The ALS is supported by the Director, Office of Science, Office of Basic Energy Sciences, of the US Department of Energy under Contract No. DE-AC02-05CH11231.</FX>
+   <CR></CR>
+   <NR>19</NR>
+   <TC>13</TC>
+   <Z9>13</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>MAY 10</PD>
+   <PY>2011</PY>
+   <VL>83</VL>
+   <IS>18</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>180410</AR>
+   <DI>10.1103/PhysRevB.83.180410</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>761YJ</GA>
+   <UT>WOS:000290439000001</UT>
+   <PM></PM>
+</bibliography>

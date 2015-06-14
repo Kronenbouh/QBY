@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Blampain, E; Elmazria, O; Legrani, O; Mc Murtry, S; Montaigne, F; Fu, C; Lee, KK; Yang, SS</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP>IEEE</GP>
+   <AF>Blampain, E.; Elmazria, O.; Legrani, O.; Mc Murtry, S.; Montaigne, F.; Fu, C.; Lee, K. K.; Yang, S. S.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Platinum/AlN/Sapphire SAW resonator operating in GHz range for High temperature Wireless SAW sensor</TI>
+   <SO>2013 IEEE INTERNATIONAL ULTRASONICS SYMPOSIUM (IUS)</SO>
+   <SE>IEEE International Ultrasonics Symposium</SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Proceedings Paper</DT>
+   <CT>IEEE International Ultrasonics Symposium (IUS)</CT>
+   <CY>JUL 21-25, 2013</CY>
+   <CL>Prague, CZECH REPUBLIC</CL>
+   <SP>IEEE</SP>
+   <HO></HO>
+   <DE>component; SAW resonator; AlN; Sapphire; High temperaure; Sensor</DE>
+   <ID>ACOUSTIC-WAVE APPLICATIONS; INTERDIGITAL TRANSDUCERS; LANGASITE; DEVICES; GAPO4</ID>
+   <AB>In this work, Pt/AlN/Sapphire SAW resonator operating in 2.45GHz ISM band is studied as a potential sensor for high temperature and high frequency applications. Experimental characterization was realized using a specific station probe between room temperature and 500 degrees C. Results show that electromecahnical factor of the structure (K-2) increase with temperature, while the quality factor decreases. The variation of frequency with temperature shows a good linearity, which is very useful for temperature sensor applications and the measured TCF of -35 ppm/degrees C is consisting with modeling predictions.</AB>
+   <C1>[Blampain, E.; Elmazria, O.; Legrani, O.; Mc Murtry, S.; Montaigne, F.] Univ Lorraine, CNRS, UMR 7198, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France</C1>
+   <RP>Blampain, E (reprint author), Univ Lorraine, CNRS, UMR 7198, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>omar.elmazria@univ-lorraine.fr</EM>
+   <RI></RI>
+   <OI></OI>
+   <FU></FU>
+   <FX></FX>
+   <CR></CR>
+   <NR>16</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>IEEE</PU>
+   <PI>NEW YORK</PI>
+   <PA>345 E 47TH ST, NEW YORK, NY 10017 USA</PA>
+   <SN></SN>
+   <EI></EI>
+   <BN>978-1-4673-5686-2</BN>
+   <J9>IEEE INT ULTRA SYM</J9>
+   <JI></JI>
+   <PD></PD>
+   <PY>2013</PY>
+   <VL></VL>
+   <IS></IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP>1073</BP>
+   <EP>1076</EP>
+   <AR></AR>
+   <DI>10.1109/ULTSYM.2013.0277</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Acoustics; Engineering, Electrical & Electronic</WC>
+   <SC>Acoustics; Engineering</SC>
+   <GA>BA5IA</GA>
+   <UT>WOS:000336665300274</UT>
+   <PM></PM>
+</bibliography>

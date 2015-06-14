@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Gottwald, M; Andrieu, S; Gimbert, F; Shipton, E; Calmels, L; Magen, C; Snoeck, E; Liberati, M; Hauet, T; Arenholz, E; Mangin, S; Fullerton, EE</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Gottwald, M.; Andrieu, S.; Gimbert, F.; Shipton, E.; Calmels, L.; Magen, C.; Snoeck, E.; Liberati, M.; Hauet, T.; Arenholz, E.; Mangin, S.; Fullerton, E. E.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Co/Ni(111) superlattices studied by microscopy, x-ray absorption, and ab initio calculations</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>PERPENDICULAR MAGNETIC-ANISOTROPY; STEEP MAGNETORESISTANCE CHANGE; MULTILAYER THIN-FILMS; LOW SATURATION FIELDS; CIRCULAR-DICHROISM; TRANSPORT-PROPERTIES; NI/CO MULTILAYERS; ORBITAL MAGNETISM; DOMAIN-WALL; DIPOLE TERM</ID>
+   <AB>We explore the origins of perpendicular magnetic anisotropy in epitaxial and textured Co/Ni(111) superlattices using a combination of thin-film growth, structural characterization, x-ray magnetic circular dichroism (XMCD), and ab initio calculations. Transmission electron microscopy and x-ray diffraction experiments allow us to show that the "bulk" magnetoelastic contribution to the total magnetic energy is small compared to the interface anisotropy. The magnetic properties are studied by using XMCD at the Co and Ni L-2,L-3 edges. Hysteresis loops performed at the Co L-3 edge confirm the perpendicular magnetization for Co thicknesses up to four monolayers. The spin and orbital moments were deduced using the XMCD sum rules. The results are explained by considering two kinds of magnetic moments for Co, distinguishing the interfaces from the rest of the layers. Both effective spin and orbital moments of Co atoms are found to be enhanced at the Co-Ni interfaces, whereas the magnetic moment of Co surrounded by Co is similar to the bulk value. Ab initio calculations allow us to show a strong enhancement of the dipole operator contribution on Co atoms at the interface that is partly responsible for this high effective spin moment at the interface. Such a moment enhancement is not observed for Ni, with the dipole operator contribution being close to zero. Finally, we observed a very surprising proportionality between the effective spin and orbital moments, independent of the absorption edge or deposition technique used. We assign this peculiar behavior to the fact that the magnetic dipole operator involved in the sum rules is closely linked to the increase of the Co orbital moment at the interface. Based on XMCD results obtained on both molecular beam epitaxy and sputter-deposited samples, this link allows us to show the extreme sensitivity of the perpendicular anisotropy with the chemical ordering at the interface.</AB>
+   <C1>[Gottwald, M.; Andrieu, S.; Hauet, T.; Mangin, S.] Nancy Univ, CNRS, Inst Jean Lamour, UMR 7198, F-54506 Vandoeuvre Les Nancy, France; [Gimbert, F.; Calmels, L.; Snoeck, E.] Univ Toulouse, CEMES CNRS, UPR 8011, F-31055 Toulouse, France; [Gottwald, M.; Shipton, E.; Fullerton, E. E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA; [Magen, C.] Univ Zaragoza, LMA, Inst Nanociencia Aragon INA ARAID, Zaragoza 50018, Spain; [Magen, C.; Snoeck, E.] Univ Saragossa, CNRS, Transpyrenean Associated Lab Electron Microscopy, CEMES INA, Zaragoza, Spain; [Liberati, M.; Arenholz, E.] Univ Calif Berkeley, Lawrence Berkeley Natl Lab, Adv Light Source, Berkeley, CA 94720 USA</C1>
+   <RP>Gottwald, M (reprint author), Nancy Univ, CNRS, Inst Jean Lamour, UMR 7198, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>stephane.andrieu@ijl.nancy-universite.fr</EM>
+   <RI>Magen, Cesar/A-2825-2013; Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>Partner University Fund "Novel Magnetic Materials for Spin Torque Physics and Devices"; NSF [DMR-1008654]; French CNRS; CEA "METSA" network; DOE-BES [DE-SC0003678];  [ANR-10-BLANC-1005]</FU>
+   <FX>The calculations presented in this article have been performed at the CALMIP/UPS Toulouse parallel computer center. This work was supported by The Partner University Fund "Novel Magnetic Materials for Spin Torque Physics and Devices," NSF Award No. DMR-1008654, and the ANR-10-BLANC-1005 "Friends." The authors also acknowledge financial support from the French CNRS and CEA "METSA" network dedicated to microscopy. Work in UCSD was partially supported by DOE-BES Award No. DE-SC0003678.</FX>
+   <CR></CR>
+   <NR>98</NR>
+   <TC>12</TC>
+   <Z9>12</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>JUL 24</PD>
+   <PY>2012</PY>
+   <VL>86</VL>
+   <IS>1</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>014425</AR>
+   <DI>10.1103/PhysRevB.86.014425</DI>
+   <D2></D2>
+   <PG>15</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>977TS</GA>
+   <UT>WOS:000306688300002</UT>
+   <PM></PM>
+</bibliography>

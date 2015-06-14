@@ -35,35 +35,37 @@ public class Concordance {
 		bw.close();
 	}
 	
-	public static void make(String inPath, String outPath,int N) throws IOException {
+	public static void make(String inPath, String outPath, int N) {
 		
 		InputStream dico = Concordance.class.getClassLoader().getResourceAsStream("data/dico.txt");
 		
 		List<String> words = new ArrayList<>();
 		
-		BufferedReader brDico = new BufferedReader(new InputStreamReader(dico));
+		try (BufferedReader brDico = new BufferedReader(new InputStreamReader(dico))) {
 		
-		String line;
-		while((line=brDico.readLine())!=null)
-			words.add(line);
-		
-		brDico.close();
-		
-		File out = new File(String.format(outPath+"/data/concordance.txt"));
-    	
-    	if(out.exists()){
-    		out.delete();
-    		out.createNewFile();
-    	}
-    	
-    	else{
-    		out.createNewFile();
-    	}
-		
-		for(int i=1;i<=N;i++){
-			String path = String.format(outPath+String.format("/data/abstract/biblio101_%s.txt",i));
-			compare(path,words,out);
+			String line;
+			while((line = brDico.readLine())!=null)
+				words.add(line);
+			
+			brDico.close();
+			
+			File out = new File(String.format(outPath+"/data/concordance.txt"));
+	    	
+	    	if(out.exists()){
+	    		out.delete();
+	    		out.createNewFile();
+	    	}
+	    	
+	    	else{
+	    		out.createNewFile();
+	    	}
+			
+			for(int i=1;i<=N;i++){
+				String path = String.format(outPath+String.format("/data/abstract/biblio101_%s.txt",i));
+				compare(path,words,out);
+			}
+		} catch (IOException e) {
+			throw new RuntimeException(e);
 		}
-		
 	}
 }

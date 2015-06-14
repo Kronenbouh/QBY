@@ -1,0 +1,1 @@
+This paper is providing an analysis on how an LTE-based mobile broadband communication system would be able to survive and resist to intentional jammers as encountered in some military use cases. This analysis has been developed using our LTE knowledge for professional usage and our own expertise on jammers characteristics and use cases.

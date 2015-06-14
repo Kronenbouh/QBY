@@ -1,0 +1,347 @@
+biblio101_1:forme
+biblio101_1:hysteresis loop
+biblio101_1:magnetic force
+biblio101_1:magnetic domains
+biblio101_1:experimental data
+biblio101_1:magnetic domain
+biblio101_4:spin
+biblio101_4:hysteresis loop
+biblio101_4:ferromagnetic layer
+biblio101_4:ferromagnetic layer
+biblio101_5:spin
+biblio101_6:spin
+biblio101_6:spin
+biblio101_6:spin
+biblio101_6:spin
+biblio101_6:spin
+biblio101_6:magnetic fields
+biblio101_6:magnetic field
+biblio101_7:x-ray
+biblio101_7:x-ray
+biblio101_7:x-ray
+biblio101_7:x-ray
+biblio101_7:magnetic domain
+biblio101_7:thin film
+biblio101_7:spatial resolution
+biblio101_7:spatial resolution
+biblio101_8:spin
+biblio101_8:spin
+biblio101_8:magnetic moment
+biblio101_9:spin
+biblio101_9:spin
+biblio101_9:spin
+biblio101_10:forme
+biblio101_10:x-ray
+biblio101_10:incubation time
+biblio101_10:experimental results
+biblio101_11:forme
+biblio101_11:hysteresis loop
+biblio101_11:hysteresis loops
+biblio101_11:magnetic field
+biblio101_12:spin
+biblio101_12:magnetic domain
+biblio101_13:spin
+biblio101_13:spin
+biblio101_13:spin
+biblio101_13:x-ray
+biblio101_13:electron microscopy
+biblio101_13:Monte Carlo
+biblio101_14:spin
+biblio101_14:spin
+biblio101_14:spin
+biblio101_14:spin
+biblio101_14:spin
+biblio101_14:fluctuation
+biblio101_14:thin film
+biblio101_14:thermal fluctuations
+biblio101_14:time scales
+biblio101_14:current pulses
+biblio101_14:angular momentum
+biblio101_14:current pulse
+biblio101_14:current pulse
+biblio101_14:time scale
+biblio101_15:electron microscopy
+biblio101_15:electron diffraction
+biblio101_16:hysteresis loop
+biblio101_16:hysteresis loops
+biblio101_16:magnetic field
+biblio101_17:conductance
+biblio101_18:conductance
+biblio101_18:low voltage
+biblio101_18:square root
+biblio101_19:spin
+biblio101_19:spin
+biblio101_19:spin
+biblio101_19:magnetic field
+biblio101_20:spin
+biblio101_20:spin
+biblio101_20:spin
+biblio101_20:driving force
+biblio101_21:spin
+biblio101_21:spin
+biblio101_21:spin
+biblio101_21:spin
+biblio101_21:spin polarization
+biblio101_22:room temperature
+biblio101_22:electron transport
+biblio101_22:orders of magnitude
+biblio101_23:spin
+biblio101_23:spin
+biblio101_23:spin
+biblio101_23:spin
+biblio101_23:current pulses
+biblio101_23:current pulses
+biblio101_23:current pulse
+biblio101_23:current pulse
+biblio101_24:thin film
+biblio101_24:thin films
+biblio101_25:spin
+biblio101_25:thin film
+biblio101_26:ocean circulation
+biblio101_26:remote sensing
+biblio101_26:quality control
+biblio101_26:deep water
+biblio101_27:single crystal
+biblio101_28:spatial resolution
+biblio101_28:infrared sensors
+biblio101_29:thin film
+biblio101_29:spatial resolution
+biblio101_29:thin films
+biblio101_30:thin film
+biblio101_30:thin films
+biblio101_30:polarized light
+biblio101_30:magnetic recording
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:spin
+biblio101_32:ferromagnetic layer
+biblio101_32:magnetic field
+biblio101_32:angular momentum
+biblio101_32:light-emitting diode
+biblio101_33:spin
+biblio101_33:spin
+biblio101_33:spin
+biblio101_33:magnetic force
+biblio101_33:Monte Carlo
+biblio101_34:spin
+biblio101_34:spin
+biblio101_34:charge carriers
+biblio101_34:excited state
+biblio101_35:spin
+biblio101_35:spin
+biblio101_35:spin
+biblio101_35:Curie temperature
+biblio101_35:thermodynamic model
+biblio101_36:spin
+biblio101_36:spin
+biblio101_36:spin
+biblio101_36:spin
+biblio101_37:magnetic force
+biblio101_38:spin
+biblio101_38:spin
+biblio101_38:spin
+biblio101_38:Synchrotron Radiation
+biblio101_38:structural defects
+biblio101_38:electronic states
+biblio101_38:Fermi level
+biblio101_39:spin
+biblio101_39:spin
+biblio101_39:fluctuation
+biblio101_39:hysteresis loop
+biblio101_39:field measurements 
+biblio101_39:low temperatures
+biblio101_39:low temperatures
+biblio101_39:low temperature
+biblio101_39:low temperature
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:spin
+biblio101_40:fluctuation
+biblio101_40:thermal fluctuations
+biblio101_40:time scales
+biblio101_40:room temperature
+biblio101_40:experimental study
+biblio101_40:time limit
+biblio101_40:time limit
+biblio101_40:physical processes
+biblio101_40:short time
+biblio101_40:short time
+biblio101_40:time scale
+biblio101_41:spin
+biblio101_41:spin
+biblio101_41:spin
+biblio101_41:spin
+biblio101_41:room temperature
+biblio101_41:field measurements 
+biblio101_41:cross section
+biblio101_41:direct currents
+biblio101_42:spin
+biblio101_42:spin
+biblio101_42:spin
+biblio101_42:spin
+biblio101_42:spin
+biblio101_42:spin
+biblio101_42:angular momentum
+biblio101_42:hot electrons
+biblio101_42:hot electrons
+biblio101_42:magnetization directions
+biblio101_42:hot electron
+biblio101_42:hot electron
+biblio101_43:hot topic
+biblio101_43:time scale
+biblio101_44:spin
+biblio101_44:spin
+biblio101_44:ambient temperatures
+biblio101_44:low temperature
+biblio101_44:low temperature
+biblio101_45:magnetic fields
+biblio101_45:magnetic field
+biblio101_45:short time
+biblio101_46:transistor
+biblio101_46:experimental results
+biblio101_46:hot electrons
+biblio101_46:hot electrons
+biblio101_46:low temperature
+biblio101_46:electric field
+biblio101_46:electric field
+biblio101_46:binding energy
+biblio101_46:hot electron
+biblio101_46:hot electron
+biblio101_47:magnetic fields
+biblio101_47:magnetic field
+biblio101_47:potential well
+biblio101_47:magnetic resonance
+biblio101_47:single crystal
+biblio101_48:magnetic domain
+biblio101_48:thin film
+biblio101_48:spatial resolution
+biblio101_48:electron microscopy
+biblio101_48:circular dichroism
+biblio101_48:valence band
+biblio101_49:spin
+biblio101_49:experimental data
+biblio101_49:field measurements 
+biblio101_49:low temperature
+biblio101_50:forme
+biblio101_51:electric field
+biblio101_51:negative voltage
+biblio101_51:positive voltage
+biblio101_53:spin
+biblio101_53:low temperatures
+biblio101_53:low temperature
+biblio101_54:spin
+biblio101_54:transistor
+biblio101_54:experimental results
+biblio101_54:magnetic field
+biblio101_54:hot electrons
+biblio101_54:binding energy
+biblio101_54:hot electron
+biblio101_54:hot electron
+biblio101_54:take place
+biblio101_55:magnetic resonance
+biblio101_56:spin
+biblio101_56:spin
+biblio101_56:magnetic field
+biblio101_57:spin
+biblio101_57:spin
+biblio101_57:spin
+biblio101_57:spin
+biblio101_57:spin
+biblio101_57:magnetic field
+biblio101_57:take place
+biblio101_57:magnetization curve
+biblio101_58:room temperature
+biblio101_58:high temperature
+biblio101_58:temperature sensor
+biblio101_60:spin
+biblio101_60:spin
+biblio101_60:spin
+biblio101_60:spin
+biblio101_60:spin
+biblio101_60:spin
+biblio101_61:spin
+biblio101_61:spin
+biblio101_61:spin
+biblio101_61:spin
+biblio101_61:spin
+biblio101_61:spin
+biblio101_62:spin
+biblio101_62:spin
+biblio101_62:magnetic resonance
+biblio101_62:magnetic resonance
+biblio101_63:Fermi level
+biblio101_64:magnetic field
+biblio101_64:polarized light
+biblio101_64:data storage
+biblio101_64:data storage
+biblio101_64:laser pulses
+biblio101_65:real time
+biblio101_65:electrical resistance
+biblio101_65:structural changes
+biblio101_66:spin
+biblio101_66:magnetic domain
+biblio101_66:current pulses
+biblio101_66:current pulse
+biblio101_66:quantitative analysis
+biblio101_67:liver disease
+biblio101_67:fatty acids
+biblio101_67:Fatty acid
+biblio101_68:forme
+biblio101_68:spin
+biblio101_68:spin
+biblio101_68:spin
+biblio101_68:spin
+biblio101_68:x-ray
+biblio101_68:x-ray
+biblio101_68:magnetic moment
+biblio101_68:magnetic moment
+biblio101_68:electron microscopy
+biblio101_68:circular dichroism
+biblio101_68:Hysteresis loops
+biblio101_68:magnetic moments
+biblio101_68:absorption edge
+biblio101_69:spin
+biblio101_69:spin
+biblio101_69:spin
+biblio101_69:experimental results
+biblio101_69:magnetic field
+biblio101_70:forme
+biblio101_70:barrier layer
+biblio101_71:spin
+biblio101_71:spin
+biblio101_71:spin
+biblio101_72:magnetic force
+biblio101_72:single crystal
+biblio101_73:spin
+biblio101_73:spin
+biblio101_73:conductance
+biblio101_73:electronic states
+biblio101_73:Fermi level
+biblio101_74:spin
+biblio101_74:spin
+biblio101_74:thin film
+biblio101_74:orders of magnitude
+biblio101_74:thin films
+biblio101_74:Hall effect
+biblio101_75:spin
+biblio101_75:spin
+biblio101_75:spin
+biblio101_75:spin
+biblio101_75:spin
+biblio101_75:key elements
+biblio101_75:magnetic layers
+biblio101_75:piece of information
+biblio101_76:spin
+biblio101_76:spin
+biblio101_76:single crystal
+biblio101_76:single crystal
+biblio101_76:wave function

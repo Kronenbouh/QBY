@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Gopman, DB; Bedau, D; Wolf, G; Mangin, S; Fullerton, EE; Katine, JA; Kent, AD</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Gopman, D. B.; Bedau, D.; Wolf, G.; Mangin, S.; Fullerton, E. E.; Katine, J. A.; Kent, A. D.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Temperature dependence of the switching field in all-perpendicular spin-valve nanopillars</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>MAGNETIZATION REVERSAL; JUNCTION; FLUCTUATIONS; ANISOTROPY; FILMS; TIME</ID>
+   <AB>We present temperature dependent switching measurements of the Co/Ni multilayered free element of 75-nm-diameter spin-valve nanopillars. Angular dependent hysteresis measurements as well as switching field measurements taken at low temperature are in agreement with a model of thermal activation over a perpendicular anisotropy barrier. However, the statistics of switching (i.e. the mean switching field and the variance of the switching field distribution) from 20 up to 400 K are in disagreement with a Neel-Brown model that assumes a temperature independent barrier height and anisotropy field. We introduce a modified Neel-Brown model that fits the experimental data in which we attribute a T-3/2 dependence to the barrier height and the anisotropy field due to the temperature dependent magnetization and anisotropy energy.</AB>
+   <C1>[Gopman, D. B.; Bedau, D.; Wolf, G.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Bedau, D.; Katine, J. A.] HGST San Jose Res Ctr, San Jose, CA 95135 USA; [Mangin, S.] Univ Lorraine, CNRS, Inst Jean Lamour, UMR 7198, Nancy, France; [Fullerton, E. E.] Univ Calif San Diego, CMRR, La Jolla, CA 92093 USA</C1>
+   <RP>Gopman, DB (reprint author), NYU, Dept Phys, 4 Washington Pl, New York, NY 10003 USA.</RP>
+   <EM>daniel.gopman@physics.nyu.edu</EM>
+   <RI>Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>NYU by NSF [DMR-1006575, NSF-DMR-1309202]; Partner University Fund (PUF) of the Embassy of France; European Project [OP2M FP7-IOF-2011-298060]; Region Lorraine; NSF [DMR-1008654.];  [ANR-10-BLANC-1005]</FU>
+   <FX>This research was supported at NYU by NSF Grants No. DMR-1006575 and No. NSF-DMR-1309202, as well as the Partner University Fund (PUF) of the Embassy of France. Research at UL was supported by ANR-10-BLANC-1005 "Friends," the European Project (OP2M FP7-IOF-2011-298060), and the Region Lorraine. Work at UCSD was supported by NSF Grant No. DMR-1008654.</FX>
+   <CR></CR>
+   <NR>30</NR>
+   <TC>3</TC>
+   <Z9>3</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>SEP 3</PD>
+   <PY>2013</PY>
+   <VL>88</VL>
+   <IS>10</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>100401</AR>
+   <DI>10.1103/PhysRevB.88.100401</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>211FM</GA>
+   <UT>WOS:000323890700001</UT>
+   <PM></PM>
+</bibliography>

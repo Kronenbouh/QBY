@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Lu, Y; Yang, HX; Tiusan, C; Hehn, M; Chshiev, M; Duluard, A; Kierren, B; Lengaigne, G; Lacour, D; Bellouard, C; Montaigne, F</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Lu, Y.; Yang, H. -X.; Tiusan, C.; Hehn, M.; Chshiev, M.; Duluard, A.; Kierren, B.; Lengaigne, G.; Lacour, D.; Bellouard, C.; Montaigne, F.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Spin-orbit coupling effect by minority interface resonance states in single-crystal magnetic tunnel junctions</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID></ID>
+   <AB>Spin-orbit coupling (SOC) related to the minority interface resonance states (IRSs) of Fe(001) has been evidenced in full-epitaxial Fe(001)/MgO/Fe magnetic tunnel junctions (MTJs) from magnetotransport experiments correlated to theoretical ab initio calculations. We show that the SOC effect strongly depends on the symmetry composition of the IRS, which has been skillfully engineered via the interfacial chemical structure in the Fe(001)/MgO stack. The SOC scattering is enhanced between the majority Delta(1) and minority Delta(5) band near the Fermi level when presenting a Delta(5) symmetry dominant IRS at the Fe/MgO interface. Our results validate the interplay between SOC and IRSs, which gives further understanding of the mechanisms responsible for the tunneling anisotropic magnetoresistance and the large perpendicular magnetic anisotropy at the Fe/MgO interface.</AB>
+   <C1>[Lu, Y.; Tiusan, C.; Hehn, M.; Duluard, A.; Kierren, B.; Lengaigne, G.; Lacour, D.; Bellouard, C.; Montaigne, F.] Nancy Univ, Inst Jean Lamour, UMR 7198, CNRS, F-54506 Vandoeuvre Les Nancy, France; [Yang, H. -X.; Chshiev, M.] UMR 8191 CEA CNRS UJF Grenoble 1 G INP, SPINTEC, F-38054 Grenoble, France; [Tiusan, C.] Tech Univ Cluj Napoca, Ctr Superconduct Spintron & Surface Sci C4S, Cluj Napoca 400114, Romania</C1>
+   <RP>Lu, Y (reprint author), Nancy Univ, Inst Jean Lamour, UMR 7198, CNRS, BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>yuan.lu@ijl.nancy-universite.fr</EM>
+   <RI>Chshiev, Mairbek/A-9742-2008; Yang, HongXin/H-5719-2012; Tiusan, Coriolan/F-1564-2011; Lu, Yuan/M-9239-2014</RI>
+   <OI>Chshiev, Mairbek/0000-0001-9232-7622; Tiusan, Coriolan/0000-0003-1338-3867; Lu, Yuan/0000-0003-3337-8205</OI>
+   <FU>SPINCHAT [ANR-07-BLAN-341]; POS CCE [574, SMIS-CSNR 12467]; Grenoble Nanosciences Foundation Chair of Excellence Program</FU>
+   <FX>We thank T. Hauet and S. Suire for their help with the TAMR measurement. C. T. acknowledges the SPINCHAT project (ANR-07-BLAN-341) and POS CCE ID. 574 (SMIS-CSNR 12467). H.X.Y. and M. C. acknowledge support by the Grenoble Nanosciences Foundation Chair of Excellence Program.</FX>
+   <CR></CR>
+   <NR>29</NR>
+   <TC>5</TC>
+   <Z9>5</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>NOV 16</PD>
+   <PY>2012</PY>
+   <VL>86</VL>
+   <IS>18</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>184420</AR>
+   <DI>10.1103/PhysRevB.86.184420</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>037XL</GA>
+   <UT>WOS:000311139700004</UT>
+   <PM></PM>
+</bibliography>

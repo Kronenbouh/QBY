@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Lu, Y; Lacour, D; Lengaigne, G; Le Gall, S; Suire, S; Montaigne, F; Hehn, M</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Lu, Y.; Lacour, D.; Lengaigne, G.; Le Gall, S.; Suire, S.; Montaigne, F.; Hehn, M.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Interfacial trapping for hot electron injection in silicon</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>SPIN-VALVE TRANSISTOR</ID>
+   <AB>We have evidenced a new interfacial trapping phenomenon for hot electron injection in silicon by studying magnetic tunnel transistors (MTTs) with a MgO tunneling barrier emitter and a Cu/Si Shottky barrier collector. Transport measurements on hot electrons indicate that an interfacial charge trapping and a backscattering-induced collector current limitation take place with the MTT spin-valve base both in parallel and antiparallel states when the temperature is lower than 25 K, which results in a rapid decrease of the magnetocurrent ratio from similar to 2000% at 25K to 800% at 17 K. The binding energy of the trapped electron is estimated to be about 1.7 meV, which is also found to increase with the magnetic field. A simple analytic model considering the interfacial electron trapping and releasing is proposed to explain the experimental results. (C) 2013 AIP Publishing LLC.</AB>
+   <C1>[Lu, Y.; Lacour, D.; Lengaigne, G.; Le Gall, S.; Suire, S.; Montaigne, F.; Hehn, M.] Nancy Univ, CNRS, UMR 7198, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France</C1>
+   <RP>Lu, Y (reprint author), Nancy Univ, CNRS, UMR 7198, Inst Jean Lamour, BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>yuan.lu@univ-lorraine.fr</EM>
+   <RI>Lu, Yuan/M-9239-2014</RI>
+   <OI>Lu, Yuan/0000-0003-3337-8205</OI>
+   <FU>French ANR SpinPress project; region Lorraine</FU>
+   <FX>We thank Professor M. W. Wu for fruitful discussion. This work was supported by French ANR SpinPress project and region Lorraine.</FX>
+   <CR></CR>
+   <NR>16</NR>
+   <TC>3</TC>
+   <Z9>3</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>JUL 8</PD>
+   <PY>2013</PY>
+   <VL>103</VL>
+   <IS>2</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>022407</AR>
+   <DI>10.1063/1.4813015</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>182RH</GA>
+   <UT>WOS:000321761000049</UT>
+   <PM></PM>
+</bibliography>

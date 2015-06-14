@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Schleicher, F; Halisdemir, U; Lacour, D; Gallart, M; Boukari, S; Schmerber, G; Davesne, V; Panissod, P; Halley, D; Majjad, H; Henry, Y; Leconte, B; Boulard, A; Spor, D; Beyer, N; Kieber, C; Sternitzky, E; Cregut, O; Ziegler, M; Montaigne, F; Beaurepaire, E; Gilliot, P; Hehn, M; Bowen, M</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Schleicher, F.; Halisdemir, U.; Lacour, D.; Gallart, M.; Boukari, S.; Schmerber, G.; Davesne, V.; Panissod, P.; Halley, D.; Majjad, H.; Henry, Y.; Leconte, B.; Boulard, A.; Spor, D.; Beyer, N.; Kieber, C.; Sternitzky, E.; Cregut, O.; Ziegler, M.; Montaigne, F.; Beaurepaire, E.; Gilliot, P.; Hehn, M.; Bowen, M.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Localized states in advanced dielectrics from the vantage of spin- and symmetry-polarized tunnelling across MgO</TI>
+   <SO>NATURE COMMUNICATIONS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>ROOM-TEMPERATURE; MAGNESIUM-OXIDE; JUNCTIONS; MAGNETORESISTANCE; LUMINESCENCE; BARRIERS; ELECTRODES; CENTERS; FILMS</ID>
+   <AB>Research on advanced materials such as multiferroic perovskites underscores promising applications, yet studies on these materials rarely address the impact of defects on the nominally expected materials property. Here, we revisit the comparatively simple oxide MgO as the model material system for spin-polarized solid-state tunnelling studies. We present a defect-mediated tunnelling potential landscape of localized states owing to explicitly identified defect species, against which we examine the bias and temperature dependence of magnetotransport. By mixing symmetry-resolved transport channels, a localized state may alter the effective barrier height for symmetry-resolved charge carriers, such that tunnelling magnetoresistance decreases most with increasing temperature when that state is addressed electrically. Thermal excitation promotes an occupancy switchover from the ground to the excited state of a defect, which impacts these magnetotransport characteristics. We thus resolve contradictions between experiment and theory in this otherwise canonical spintronics system, and propose a new perspective on defects in dielectrics.</AB>
+   <C1>[Schleicher, F.; Halisdemir, U.; Gallart, M.; Boukari, S.; Schmerber, G.; Davesne, V.; Panissod, P.; Halley, D.; Majjad, H.; Henry, Y.; Leconte, B.; Boulard, A.; Spor, D.; Beyer, N.; Kieber, C.; Sternitzky, E.; Cregut, O.; Ziegler, M.; Beaurepaire, E.; Gilliot, P.; Bowen, M.] Univ Strasbourg, IPCMS, UMR CNRS 7504, F-67034 Strasbourg, France; [Lacour, D.; Montaigne, F.; Hehn, M.] Univ Lorraine, Inst Jean Lamour, UMR CNRS 7198, F-54506 Vandoeuvre Les Nancy, France</C1>
+   <RP>Bowen, M (reprint author), Univ Strasbourg, IPCMS, UMR CNRS 7504, 23 Rue Loess,BP 43, F-67034 Strasbourg, France.</RP>
+   <EM>Martin.Bowen@ipcms.unistra.fr</EM>
+   <RI>Bowen, Martin/B-8440-2013</RI>
+   <OI>Bowen, Martin/0000-0002-0432-3419</OI>
+   <FU>CNRS; ANR [ANR-09-JCJC-0137, ANR-09-Blan-076]; U. de Strasbourg; La Region Alsace; La Region Lorraine</FU>
+   <FX>F.S. gratefully acknowledges financial support from the CNRS. We acknowledge M. Alouani for fruitful discussions, S. Colis for technical assistance, the STNano technological platform for access and J. Stoll, J.-G. Faullumel, B. Muller and G. Dekyndt of the IPCMS machine shop for assistance. M. B. acknowledges B. L. and A. B. for developing the magneto-optic multifunctional bench, S. Dornier and D. S. for motor automation, as well as N.B. and C. K. for infrastructural support. This work was supported by grants from the ANR (ANR-09-JCJC-0137 and ANR-09-Blan-076), the CNRS (STII PEPS 'SpinTrans', PICS 'Oxyspin'), the U. de Strasbourg, La Region Alsace and La Region Lorraine.</FX>
+   <CR></CR>
+   <NR>69</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>NATURE PUBLISHING GROUP</PU>
+   <PI>LONDON</PI>
+   <PA>MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND</PA>
+   <SN>2041-1723</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>NAT COMMUN</J9>
+   <JI>Nat. Commun.</JI>
+   <PD>AUG</PD>
+   <PY>2014</PY>
+   <VL>5</VL>
+   <IS></IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>4547</AR>
+   <DI>10.1038/ncomms5547</DI>
+   <D2></D2>
+   <PG>9</PG>
+   <WC>Multidisciplinary Sciences</WC>
+   <SC>Science & Technology - Other Topics</SC>
+   <GA>AO1BJ</GA>
+   <UT>WOS:000341046500002</UT>
+   <PM>25088937</PM>
+</bibliography>

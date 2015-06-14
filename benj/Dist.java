@@ -1,5 +1,8 @@
 package benj;
 
+import static benj.utils.FileUtils.canonicalCurrentDirectory;
+import static benj.utils.FileUtils.ensureExists;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -149,63 +152,29 @@ public class Dist {
 	}
 	
 	public static void main(String[] args) throws IOException {
+		String inPath  = canonicalCurrentDirectory();
+		String outPath = inPath + "/output";
+		ensureExists(outPath + "/data/abstract");
 		
-		final File f2 = new File(Dist.class.getProtectionDomain().getCodeSource().getLocation().getPath());
-    	
-		String inPath = f2.getParent().replaceAll("\\\\", "/");
+		File biblioDir = new File(inPath + "/biblio/");
+    	int  nBiblios  = biblioDir.list().length;
 		
-		String outPath = String.format(inPath+"/output");
-
-		File dir1 = new File(outPath);
-		if(dir1.exists()==false)
-			dir1.mkdirs();
-		
-		File dir2 = new File(String.format(outPath+"/data"));
-		if(dir2.exists()==false)
-			dir2.mkdirs();
-		
-		File dir3 = new File(String.format(outPath+"/data/abstract"));
-		if(dir3.exists()==false)
-			dir3.mkdirs();		
-		
-		File raw = new File(String.format(inPath+"/biblio/"));
-    	
-    	int N=raw.list().length;
-		
-		File dist = new File(String.format(outPath+"/data/dist.txt"));
-		
-		File relation = new File(String.format(outPath+"/data/relation.txt"));
-			
-		boolean update1=dist.exists();
-		
-		boolean update2=relation.exists();
-		
-		if(update2){
-			int ans2 = JOptionPane.showConfirmDialog(null,"Avez-vous ajouté de nouveaux textes bruts ?", "Loria", JOptionPane.YES_NO_OPTION);
-			update2=ans2 == JOptionPane.OK_OPTION;
-			if(update2==true)
-				Extract.doExtract(inPath,outPath,N);
-				Concordance.make(inPath,outPath,N);
-		}
-		
-		else{
-			Extract.doExtract(inPath,outPath,N);
-			Concordance.make(inPath,outPath,N);
-		}
-		
-		if(update1){
-			int ans1 = JOptionPane.showConfirmDialog(null,"Voulez-vous recalculer les distances ?", "Loria", JOptionPane.YES_NO_OPTION);
-			update1=ans1 == JOptionPane.OK_OPTION;
-			if(update1==true)
-				CastR.castR(inPath,outPath);
-		}
-		
-		else{
-			CastR.castR(inPath,outPath);
-		}
+    	updateIfNecessary(new File(outPath + "/data/relation.txt"), "Avez-vous ajoutÃ© de nouveaux textes bruts ?", () -> {
+    		Extract.doExtract(inPath,outPath,nBiblios);
+			Concordance.make(inPath,outPath,nBiblios);
+    	});
+		updateIfNecessary(new File(outPath + "/data/dist.txt"), "Voulez-vous recalculer les distances ?", () -> ExternalRCaller.buildDistanceMatrix(inPath,outPath));
 		
 		String toFind = "Schneider, C";
 		writeGraph(toFind,10,inPath,outPath);
-	}	
+	}
+
+	private static void updateIfNecessary(File f, String msg, Runnable update) {
+		if (f.exists()) {
+			int ans = JOptionPane.showConfirmDialog(null,msg, "Loria",JOptionPane.YES_NO_OPTION);
+			if( ans == JOptionPane.OK_OPTION) update.run();
+		} else 
+			update.run();
+	}
 }
 	

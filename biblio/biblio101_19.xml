@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Lin, WW; Cucchiara, J; Berthelot, C; Hauet, T; Henry, Y; Katine, JA; Fullerton, EE; Mangin, S</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Lin, Weiwei; Cucchiara, J.; Berthelot, C.; Hauet, T.; Henry, Y.; Katine, J. A.; Fullerton, Eric E.; Mangin, S.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Magnetic susceptibility measurements as a probe of spin transfer driven magnetization dynamics</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE>canted spin arrangements; magnetic susceptibility; nanostructured materials; perpendicular magnetic anisotropy; spin dynamics; spin valves</DE>
+   <ID>ASSEMBLED METALLIC NANOSTRUCTURES; MULTILAYER; EXCITATION; REVERSAL</ID>
+   <AB>An experimental technique has been developed to characterize spin-transfer driven magnetization dynamics. It was tested on a nanopillar spin valve with perpendicular anisotropy by measuring the nanopillar voltage under ac injected current (dV/dI), and ac magnetic field (dV/dH). Both the amplitude and the sign of the signals are different which reveals the different influences of the current and the field on the magnetization dynamics. Comparison between experiments and macrospin simulation shows that dV/dH measurements reveal the presence of a "canted state" demonstrating that dV/dH and dV/dI measurements are complementary techniques to probe magnetic states and their dynamics. (C) 2010 American Institute of Physics. [doi:10.1063/1.3454782]</AB>
+   <C1>[Lin, Weiwei; Cucchiara, J.; Berthelot, C.; Hauet, T.; Mangin, S.] Nancy Univ, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France; [Henry, Y.] Univ Strasbourg, Inst Phys & Chim Mat Strasbourg, F-67037 Strasbourg, France; [Katine, J. A.] Hitachi Global Storage Technol, San Jose Res Ctr, San Jose, CA 95135 USA; [Fullerton, Eric E.] Univ Calif San Diego, Ctr Magnet Recording Res, Dept Elect & Comp Engn, La Jolla, CA 92093 USA</C1>
+   <RP>Lin, WW (reprint author), Nancy Univ, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>stephane.mangin@ijl.nancy-universite.fr</EM>
+   <RI>Fullerton, Eric/H-8445-2013; Lin, Weiwei/D-4870-2009</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509; Lin, Weiwei/0000-0002-8567-0323</OI>
+   <FU>French National Research Agency (ANR)</FU>
+   <FX>This work was partly supported by the ISTRADE project of French National Research Agency (ANR). The authors thank J.Z. Sun and A. D. Kent for fruitful discussions.</FX>
+   <CR></CR>
+   <NR>15</NR>
+   <TC>9</TC>
+   <Z9>9</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>JUN 21</PD>
+   <PY>2010</PY>
+   <VL>96</VL>
+   <IS>25</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>252503</AR>
+   <DI>10.1063/1.3454782</DI>
+   <D2></D2>
+   <PG>3</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>615WF</GA>
+   <UT>WOS:000279168100034</UT>
+   <PM></PM>
+</bibliography>

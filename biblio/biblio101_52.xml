@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Riahi, H; Montaigne, F; Rougemaille, N; Canals, B; Lacour, D; Hehn, M</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Riahi, H.; Montaigne, F.; Rougemaille, N.; Canals, B.; Lacour, D.; Hehn, M.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Energy levels of interacting curved nanomagnets in a frustrated geometry: increasing accuracy when using finite difference methods</TI>
+   <SO>JOURNAL OF PHYSICS-CONDENSED MATTER</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID></ID>
+   <AB>The accuracy of finite difference methods is related to the mesh choice and cell size. Concerning the micromagnetism of nano-objects, we show here that discretization issues can drastically affect the symmetry of the problem and therefore the resulting computed properties of lattices of interacting curved nanomagnets. In this paper, we detail these effects for the multi-axis kagome lattice. Using the OOMMF finite difference method, we propose an alternative way of discretizing the nanomagnet shape via a variable moment per cell scheme. This method is shown to be efficient in reducing discretization effects.</AB>
+   <C1>[Riahi, H.; Montaigne, F.; Lacour, D.; Hehn, M.] Univ Lorraine, CNRS, Inst Jean Lamour, F-54506 Vandoeuvre Les Nancy, France; [Rougemaille, N.; Canals, B.] CNRS UJF, Inst Neel, F-38042 Grenoble 9, France</C1>
+   <RP>Riahi, H (reprint author), Univ Lorraine, CNRS, Inst Jean Lamour, Blvd Aiguillettes,BP 70239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM></EM>
+   <RI></RI>
+   <OI></OI>
+   <FU>Region Lorraine; ANR Project FRUSTRATED; Institut Carnot ICEEL Lorraine</FU>
+   <FX>The authors would like to thank J-C Toussaint for fruitful discussions and for help with the FE FEELLGOOD calculations. This work has been partially supported by the Region Lorraine, the ANR Project FRUSTRATED and the Institut Carnot ICEEL Lorraine.</FX>
+   <CR></CR>
+   <NR>12</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>IOP PUBLISHING LTD</PU>
+   <PI>BRISTOL</PI>
+   <PA>TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND</PA>
+   <SN>0953-8984</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>J PHYS-CONDENS MAT</J9>
+   <JI>J. Phys.-Condes. Matter</JI>
+   <PD>JUL 24</PD>
+   <PY>2013</PY>
+   <VL>25</VL>
+   <IS>29</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>296001</AR>
+   <DI>10.1088/0953-8984/25/29/296001</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>175GP</GA>
+   <UT>WOS:000321219200010</UT>
+   <PM>23803392</PM>
+</bibliography>

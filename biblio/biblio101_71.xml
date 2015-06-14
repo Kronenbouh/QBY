@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Liu, H; Bedau, D; Sun, JZ; Mangin, S; Fullerton, EE; Katine, JA; Kent, AD</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Liu, H.; Bedau, D.; Sun, J. Z.; Mangin, S.; Fullerton, E. E.; Katine, J. A.; Kent, A. D.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Time-resolved magnetic relaxation of a nanomagnet on subnanosecond time scales</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>SPIN; REVERSAL; DYNAMICS</ID>
+   <AB>We present a two-current-pulse temporal correlation experiment to study the intrinsic subnanosecond nonequilibrium magnetic dynamics of a nanomagnet during and following a pulse excitation. This method is applied to a model spin-transfer system, a spin-valve nanopillar with perpendicular magnetic anisotropy. Two pulses separated by a short delay (inf 500 ps) are shown to lead to the same switching probability as a single pulse with a duration that depends on the delay. This demonstrates a remarkable symmetry between magnetic excitation and relaxation and provides a direct measurement of the magnetic relaxation time. The results are consistent with a simple finite-temperature Fokker-Planck macrospin model of the dynamics, suggesting more coherent magnetization dynamics in this short-time nonequilibrium limit than near equilibrium.</AB>
+   <C1>[Liu, H.; Bedau, D.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Sun, J. Z.] IBM TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA; [Mangin, S.] Nancy Univ, Inst Jean Lamour, UMR CNRS 7198, Vandoeuvre Les Nancy, France; [Fullerton, E. E.] Univ Calif San Diego, CMRR, La Jolla, CA 92093 USA; [Katine, J. A.] Hitachi GST, San Jose Res Ctr, San Jose, CA 95135 USA</C1>
+   <RP>Liu, H (reprint author), NYU, Dept Phys, 4 Washington Pl, New York, NY 10003 USA.</RP>
+   <EM></EM>
+   <RI>Fullerton, Eric/H-8445-2013; Sun, Jonathan/C-2773-2009</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509; </OI>
+   <FU>NSF [DMR-1006575]; USARO [W911NF0710643]; Partner University Fund (PUF) of Embassy of France</FU>
+   <FX>This research was supported at NYU by NSF Grant No. DMR-1006575, USARO Grant No. W911NF0710643, as well as the Partner University Fund (PUF) of the Embassy of France.</FX>
+   <CR></CR>
+   <NR>24</NR>
+   <TC>8</TC>
+   <Z9>8</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>JUN 19</PD>
+   <PY>2012</PY>
+   <VL>85</VL>
+   <IS>22</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>220405</AR>
+   <DI>10.1103/PhysRevB.85.220405</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>962GX</GA>
+   <UT>WOS:000305531600003</UT>
+   <PM></PM>
+</bibliography>

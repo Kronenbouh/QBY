@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Cucchiara, J; Le Gall, S; Fullerton, EE; Kim, JV; Ravelosona, D; Henry, Y; Katine, JA; Kent, AD; Bedau, D; Gopman, D; Mangin, S</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Cucchiara, J.; Le Gall, S.; Fullerton, E. E.; Kim, J. -V.; Ravelosona, D.; Henry, Y.; Katine, J. A.; Kent, A. D.; Bedau, D.; Gopman, D.; Mangin, S.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Domain wall motion in nanopillar spin-valves with perpendicular anisotropy driven by spin-transfer torques</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>MAGNETIZATION REVERSAL; PROPAGATION</ID>
+   <AB>Using transport measurements and micromagnetic simulations we have investigated the domain wall motion driven by spin-transfer torques in all-perpendicular hexagonal nanopillar spin-valves. In particular, we probe domain walls nucleated in the free layer of the spin-valves, which are then pinned in the devices. We have determined both the field-current state diagrams for the domain-wall state and the thermally activated dynamics of the nucleation and depinning processes. We show that the nucleation process is well-described by a modified Neel-Brown model taking into account the spin-transfer torque, whereas the depinning process is independent of the current. This is confirmed by an analytical calculation which shows that spin-torques have no effect on the Arrhenius escape rate associated with thermally activated domain wall depinning in this geometry. Furthermore, micromagnetic simulations indicate that spin-transfer only weakly affects the domain wall motion, but instead modifies the inner domain wall structure. DOI: 10.1103/PhysRevB.86.214429</AB>
+   <C1>[Cucchiara, J.; Le Gall, S.; Mangin, S.] Univ Lorraine, Inst Jean Lamour, UMR CNRS 7198, Vandoeuvre Les Nancy, France; [Fullerton, E. E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA; [Kim, J. -V.; Ravelosona, D.] Univ Paris 11, UMR CNRS 8622, Inst Elect Fondamentale, Paris, France; [Henry, Y.] UDS, CNRS, Inst Phys & Chim Mat Strasbourg, Strasbourg, France; [Katine, J. A.] HGST San Jose Res Ctr, San Jose, CA USA; [Kent, A. D.; Bedau, D.; Gopman, D.] NYU, Dept Phys, New York, NY 10003 USA</C1>
+   <RP>Cucchiara, J (reprint author), Univ Lorraine, Inst Jean Lamour, UMR CNRS 7198, Vandoeuvre Les Nancy, France.</RP>
+   <EM></EM>
+   <RI>Kim, Joo-Von/B-3672-2008; Fullerton, Eric/H-8445-2013</RI>
+   <OI>Kim, Joo-Von/0000-0002-3849-649X; Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>Partner University Fund "Novel Magnetic Materials for Spin Torque Physics and Devices"; NSF [1008654, 1006575]; Region Lorraine;  [ANR-10-BLAN-1005];  [MAGWIRE FP7-ICT-2009-5 257707]</FU>
+   <FX>We would like to thank L. Buda-Prejbeanu for fruitful discussions and great help with the micromagnetic simulations. This work was supported by The Partner University Fund "Novel Magnetic Materials for Spin Torque Physics and Devices," the ANR-10-BLAN-1005 "Friends" and NSF Awards No. 1008654 and No. 1006575 as well as the European project MAGWIRE FP7-ICT-2009-5 257707 and the Region Lorraine.</FX>
+   <CR></CR>
+   <NR>42</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>DEC 28</PD>
+   <PY>2012</PY>
+   <VL>86</VL>
+   <IS>21</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>214429</AR>
+   <DI>10.1103/PhysRevB.86.214429</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>061EO</GA>
+   <UT>WOS:000312830800003</UT>
+   <PM></PM>
+</bibliography>

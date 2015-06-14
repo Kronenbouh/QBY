@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Bedau, D; Liu, H; Sun, JZ; Katine, JA; Fullerton, EE; Mangin, S; Kent, AD</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Bedau, D.; Liu, H.; Sun, J. Z.; Katine, J. A.; Fullerton, E. E.; Mangin, S.; Kent, A. D.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Spin-transfer pulse switching: From the dynamic to the thermally activated regime</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>MAGNETIZATION REVERSAL; EXCITATIONS; NANOPILLARS; PARTICLE</ID>
+   <AB>The effect of thermal fluctuations on spin-transfer switching has been studied for a broad range of time scales (subnanoseconds to seconds) in a model system, a uniaxial thin film nanomagnet. The nanomagnet is incorporated into a spin-valve nanopillar, which is subject to spin-polarized current pulses of variable amplitude and duration. Two physical regimes are clearly distinguished: a long pulse duration regime, in which reversal occurs by spin-transfer assisted thermal activation over an energy barrier, and a short-time large pulse amplitude regime, in which the switching probability is determined by the spin-angular momentum in the current pulse. (C) 2010 American Institute of Physics. [doi:10.1063/1.3532960]</AB>
+   <C1>[Bedau, D.; Liu, H.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Sun, J. Z.] IBM Corp, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA; [Katine, J. A.] Hitachi GST, San Jose Res Ctr, San Jose, CA 95135 USA; [Fullerton, E. E.] Univ Calif San Diego, CMRR, La Jolla, CA 92093 USA; [Mangin, S.] Nancy Univ, IJL, CNRS, UMR 7198, F-54042 Vandoeuvre Les Nancy, France</C1>
+   <RP>Bedau, D (reprint author), NYU, Dept Phys, 4 Washington Pl, New York, NY 10003 USA.</RP>
+   <EM>andy.kent@nyu.edu</EM>
+   <RI>Fullerton, Eric/H-8445-2013; Sun, Jonathan/C-2773-2009</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509; </OI>
+   <FU>USARO [W911NF0710643]; NSF-DMR [0706322, 1006575, 1008654]</FU>
+   <FX>The research at NYU was supported by USARO Grant No. W911NF0710643 and NSF-DMR Grant Nos. 0706322 and 1006575. Research at UCSD was supported by NSF-DMR Grant No. 1008654</FX>
+   <CR></CR>
+   <NR>18</NR>
+   <TC>45</TC>
+   <Z9>45</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>DEC 27</PD>
+   <PY>2010</PY>
+   <VL>97</VL>
+   <IS>26</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>262502</AR>
+   <DI>10.1063/1.3532960</DI>
+   <D2></D2>
+   <PG>3</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>700TV</GA>
+   <UT>WOS:000285768100047</UT>
+   <PM></PM>
+</bibliography>

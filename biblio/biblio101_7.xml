@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Turner, JJ; Huang, XJ; Krupin, O; Seu, KA; Parks, D; Kevan, S; Lima, E; Kisslinger, K; McNulty, I; Gambino, R; Mangin, S; Roy, S; Fischer, P</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Turner, Joshua J.; Huang, Xiaojing; Krupin, Oleg; Seu, Keoki A.; Parks, Daniel; Kevan, Stephen; Lima, Enju; Kisslinger, Kim; McNulty, Ian; Gambino, Richard; Mangin, Stephane; Roy, Sujoy; Fischer, Peter</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>X-Ray Diffraction Microscopy of Magnetic Structures</TI>
+   <SO>PHYSICAL REVIEW LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>EXCHANGE SCATTERING; LENS</ID>
+   <AB>We report the first proof-of-principle experiment of iterative phase retrieval from magnetic x-ray diffraction. By using the resonant x-ray excitation process and coherent x-ray scattering, we show that linearly polarized soft x rays can be used to image both the amplitude and the phase of magnetic domain structures. We recovered the magnetic structure of an amorphous terbium-cobalt thin film with a spatial resolution of about 75 nm at the Co L(3) edge at 778 eV. In comparison with soft x-ray microscopy images recorded with Fresnel zone plate optics at better than 25 nm spatial resolution, we find qualitative agreement in the observed magnetic structure.</AB>
+   <C1>[Turner, Joshua J.; Krupin, Oleg] SLAC Natl Lab, Linac Coherent Light Source, Menlo Pk, CA USA; [Turner, Joshua J.] SUNY Stony Brook, Dept Phys & Astron, Stony Brook, NY 11794 USA; [Huang, Xiaojing] UCL, London Ctr Nanotechnol, London WC1E 6BT, England; [Krupin, Oleg] European XFEL GmbH, D-22761 Hamburg, Germany; [Seu, Keoki A.; Roy, Sujoy; Fischer, Peter] Univ Calif Berkeley, Lawrence Berkeley Lab, Berkeley, CA 94720 USA; [Parks, Daniel; Kevan, Stephen] Univ Oregon, Eugene, OR 97403 USA; [Lima, Enju; Kisslinger, Kim] Brookhaven Natl Lab, Upton, NY 11973 USA; [McNulty, Ian] Argonne Natl Lab, Argonne, IL 60439 USA; [Mangin, Stephane] Nancy Univ, CNRS, Inst Jean Lamour, Nancy, France</C1>
+   <RP>Turner, JJ (reprint author), SLAC Natl Lab, Linac Coherent Light Source, Menlo Pk, CA USA.</RP>
+   <EM>joshuat@slac.stanford.edu</EM>
+   <RI>Kevan, Stephen/F-6415-2010; Fischer, Peter/A-3020-2010; MSD, Nanomag/F-6438-2012; Huang, Xiaojing/K-3075-2012; Kisslinger, Kim/F-4485-2014</RI>
+   <OI>Kevan, Stephen/0000-0002-4621-9142; Fischer, Peter/0000-0002-9824-9343; </OI>
+   <FU>U.S. Department of Energy, Office of Basic Energy Sciences [DE-FG02-07ER46128, DE-AC02-05CH11231, DE-AC02-98CH10886, DE-AC02-06CH11357]</FU>
+   <FX>We gratefully acknowledge discussions with D. Robins, M. Curtis, A. Scherz, J. Luning, S. Marchesini, A. Mancuso, and C. Jacobsen. All research in this work was supported by the U.S. Department of Energy, Office of Basic Energy Sciences: partly under Contract No. DE-FG02-07ER46128; the ALS, under Contract No. DE-AC02-05CH11231; the CFN, under Contract No. DE-AC02-98CH10886; and the APS under Contract No. DE-AC02-06CH11357.</FX>
+   <CR></CR>
+   <NR>30</NR>
+   <TC>15</TC>
+   <Z9>15</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>0031-9007</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV LETT</J9>
+   <JI>Phys. Rev. Lett.</JI>
+   <PD>JUL 14</PD>
+   <PY>2011</PY>
+   <VL>107</VL>
+   <IS>3</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>033904</AR>
+   <DI>10.1103/PhysRevLett.107.033904</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Multidisciplinary</WC>
+   <SC>Physics</SC>
+   <GA>792IM</GA>
+   <UT>WOS:000292736700011</UT>
+   <PM>21838360</PM>
+</bibliography>

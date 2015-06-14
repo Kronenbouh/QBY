@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Cucchiara, J; Fullerton, EE; Kent, AD; Sun, JZ; Henry, Y; Mangin, S</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Cucchiara, J.; Fullerton, Eric E.; Kent, A. D.; Sun, J. Z.; Henry, Y.; Mangin, S.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Current-induced magnetization reversal in terms of power dissipation</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID></ID>
+   <AB>Magnetization excitation and reversal induced by spin-transfer torques is described in terms of power received or dissipated in a macrospin system. This approach provides a clear and intuitive understanding of the effect of both applied magnetic fields and injected spin-polarized currents on magnetization reversal. It is illustrated by solving the case of magnetization reversal in a nanopillar spin valve with perpendicular magnetizations although the approach can be applied more generally. The appearance of critical currents below which spin-transfer torque is no longer efficient is explained by a break in the uniaxial symmetry of such structures.</AB>
+   <C1>[Cucchiara, J.; Mangin, S.] Nancy Univ, CNRS, Inst Jean Lamour, Upv Metz, Vandoeuvre Les, France; [Fullerton, Eric E.] Univ Calif San Diego, Ctr Magnet Recording Res, San Diego, CA 92093 USA; [Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Sun, J. Z.] IBM TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA; [Henry, Y.] UDS, CNRS, Inst Phys & Chim Mat Strasbourg, Strasbourg, France</C1>
+   <RP>Cucchiara, J (reprint author), Nancy Univ, CNRS, Inst Jean Lamour, Upv Metz, Vandoeuvre Les, France.</RP>
+   <EM>stephane.mangin@ijl.nancy-universite.fr</EM>
+   <RI>Fullerton, Eric/H-8445-2013; Sun, Jonathan/C-2773-2009</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509; </OI>
+   <FU>French National Research Agency (ANR); NSF</FU>
+   <FX>This work was supported in parts by the Friends contract of the French National Research Agency (ANR) and by the NSF.</FX>
+   <CR></CR>
+   <NR>15</NR>
+   <TC>5</TC>
+   <Z9>5</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>SEP 21</PD>
+   <PY>2011</PY>
+   <VL>84</VL>
+   <IS>10</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>100405</AR>
+   <DI>10.1103/PhysRevB.84.100405</DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>822XL</GA>
+   <UT>WOS:000295083800001</UT>
+   <PM></PM>
+</bibliography>

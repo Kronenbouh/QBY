@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Barate, P; Liang, S; Zhang, TT; Frougier, J; Vidal, M; Renucci, P; Devaux, X; Xu, B; Jaffres, H; George, JM; Marie, X; Hehn, M; Mangin, S; Zheng, Y; Amand, T; Tao, B; Han, XF; Wang, Z; Lu, Y</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Barate, P.; Liang, S.; Zhang, T. T.; Frougier, J.; Vidal, M.; Renucci, P.; Devaux, X.; Xu, B.; Jaffres, H.; George, J. M.; Marie, X.; Hehn, M.; Mangin, S.; Zheng, Y.; Amand, T.; Tao, B.; Han, X. F.; Wang, Z.; Lu, Y.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Electrical spin injection into InGaAs/GaAs quantum wells: A comparison between MgO tunnel barriers grown by sputtering and molecular beam epitaxy methods</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>ROOM-TEMPERATURE; MAGNETORESISTANCE; EFFICIENCY</ID>
+   <AB>An efficient electrical spin injection into an InGaAs/GaAs quantum well light emitting diode is demonstrated thanks to a CoFeB/MgO spin injector. The textured MgO tunnel barrier is fabricated by two different techniques: sputtering and molecular beam epitaxy. The maximal spin injection efficiency is comparable for both methods. Additionally, the effect of annealing is also investigated for the two types of samples. Both samples show the same trend: an increase of the electroluminescence circular polarization (P-c) with the increase of annealing temperature, followed by a saturation of P-c beyond 350 degrees C annealing. Since the increase of P-c starts well below the crystallization temperature of the full CoFeB bulk layer, this trend could be mainly due to an improvement of chemical structure at the top CoFeB/MgO interface. This study reveals that the control of CoFeB/MgO interface is essential for an optimal spin injection into semiconductor. (C) 2014 AIP Publishing LLC.</AB>
+   <C1>[Barate, P.; Zhang, T. T.; Vidal, M.; Renucci, P.; Marie, X.; Amand, T.] Univ Toulouse 2, INSA CNRS UPS, LPCNO, F-31077 Toulouse, France; [Liang, S.; Devaux, X.; Hehn, M.; Mangin, S.; Tao, B.; Lu, Y.] CNRS Nancy Univ, Inst Jean Lamour, UMR 7198, F-54506 Vandoeuvre Les Nancy, France; [Frougier, J.; Jaffres, H.; George, J. M.] Unite Mixte Phys CNRS Thales, F-91767 Palaiseau, France; [Frougier, J.; Jaffres, H.; George, J. M.] Univ Paris 11, F-91767 Palaiseau, France; [Xu, B.; Wang, Z.] Chinese Acad Sci, Inst Semicond, Key Lab Semicond Mat Sci, Beijing 100083, Peoples R China; [Zheng, Y.] Univ Paris 06, CNRS UMR 7588, Inst NanoSci Paris, F-75005 Paris, France; [Tao, B.; Han, X. F.] Chinese Acad Sci, Inst Phys, Beijing Natl Lab Condensed Matter Phys, Beijing 100190, Peoples R China</C1>
+   <RP>Lu, Y (reprint author), CNRS Nancy Univ, Inst Jean Lamour, UMR 7198, BP 239, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>yuan.lu@univ-lorraine.fr</EM>
+   <RI>Lu, Yuan/M-9239-2014</RI>
+   <OI>Lu, Yuan/0000-0003-3337-8205</OI>
+   <FU>France-China ANR-NSFC research project SISTER [ANR-11-IS10-0001, NNSFC 61161130527]; French ANR research project INSPIRE [ANR-10-BLAN-1014]; Chinese State Key Project of Fundamental Research of Ministry of Science and Technology (MOST) [2010CB934401]</FU>
+   <FX>We thank T. Hauet for the help of SQUID measurement. We also acknowledge Professor Mair Chshiev for helpful discussion on MgO spin filtering effect. This work was supported by the France-China ANR-NSFC research project SISTER (Grant No. ANR-11-IS10-0001, NNSFC 61161130527), and French ANR research project INSPIRE (Grant No. ANR-10-BLAN-1014). X. F. Han also acknowledges the support of Chinese State Key Project of Fundamental Research of Ministry of Science and Technology (MOST, No. 2010CB934401).</FX>
+   <CR></CR>
+   <NR>33</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI>1077-3118</EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>JUL 7</PD>
+   <PY>2014</PY>
+   <VL>105</VL>
+   <IS>1</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>012404</AR>
+   <DI>10.1063/1.4887347</DI>
+   <D2></D2>
+   <PG>5</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>AM2FK</GA>
+   <UT>WOS:000339664900052</UT>
+   <PM></PM>
+</bibliography>

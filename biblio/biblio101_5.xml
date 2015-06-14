@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Yulaev, I; Lubarda, MV; Mangin, S; Lomakin, V; Fullerton, EE</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Yulaev, I.; Lubarda, M. V.; Mangin, S.; Lomakin, V.; Fullerton, Eric E.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Spin-transfer-torque reversal in perpendicular anisotropy spin valves with composite free layers</TI>
+   <SO>APPLIED PHYSICS LETTERS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE>composite material interfaces; exchange interactions (electron); interface magnetism; magnetic switching; magnetisation reversal; nanocomposites; nanomagnetics; permanent magnets; perpendicular magnetic anisotropy; soft magnetic materials; spin valves; thermal stability</DE>
+   <ID>EXCHANGE SPRING MEDIA; ENERGY BARRIERS; WRITABILITY; MULTILAYER; DYNAMICS</ID>
+   <AB>We describe modeling of spin-transfer-torque (STT) driven reversal in nanopillars with strong out-of-plane magnetic anisotropy where the free layer is a magnetically hard-soft composite structure. By adjusting the exchange coupling between the hard and soft layers, we observed reduced current amplitude and pulse durations required to reverse the magnetization compared to a homogeneous free layer of comparable thermal stability. The reduction in critical current comes from the increased STT efficiency acting on the soft layer. As such, the switching current is relatively insensitive to the damping parameter of the magnetic hard layer. These properties make composite free layers promising candidates for STT-based magnetic memories. (C) 2011 American Institute of Physics. [doi: 10.1063/1.3643046]</AB>
+   <C1>[Yulaev, I.; Lubarda, M. V.; Lomakin, V.; Fullerton, Eric E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA; [Yulaev, I.; Lubarda, M. V.; Lomakin, V.; Fullerton, Eric E.] Univ Calif San Diego, Dept Elect & Comp Engn, La Jolla, CA 92093 USA; [Mangin, S.] Nancy Univ, UPV Metz, CNRS, Inst Jean Lamour, Vandoeuvre Les Nancy, France</C1>
+   <RP>Fullerton, EE (reprint author), Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA.</RP>
+   <EM>efullerton@ucsd.edu</EM>
+   <RI>Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>NSF [DMR-1008654]; French National Research Agency (ANR)</FU>
+   <FX>We would like to thank A. Kent for helpful discussions. This work is supported by NSF Award No. DMR-1008654 and by the Friends contract of the French National Research Agency (ANR).</FX>
+   <CR></CR>
+   <NR>23</NR>
+   <TC>10</TC>
+   <Z9>10</Z9>
+   <PU>AMER INST PHYSICS</PU>
+   <PI>MELVILLE</PI>
+   <PA>CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 USA</PA>
+   <SN>0003-6951</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>APPL PHYS LETT</J9>
+   <JI>Appl. Phys. Lett.</JI>
+   <PD>SEP 26</PD>
+   <PY>2011</PY>
+   <VL>99</VL>
+   <IS>13</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>132502</AR>
+   <DI>10.1063/1.3643046</DI>
+   <D2></D2>
+   <PG>3</PG>
+   <WC>Physics, Applied</WC>
+   <SC>Physics</SC>
+   <GA>829WZ</GA>
+   <UT>WOS:000295618000042</UT>
+   <PM></PM>
+</bibliography>

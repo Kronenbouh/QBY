@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>S</PT>
+   <AU>Hou, WL; Carnes, M; Burrage, D; Arnone, B; Weidemann, A; Bryant, D; Grembowicz, K; Mangin, SR; Mahoney, K; Torres, M</AU>
+   <BA></BA>
+   <BE>Hou, W; Arnone, RA</BE>
+   <GP></GP>
+   <AF>Hou, Weilin (Will); Carnes, Michael; Burrage, Derek; Arnone, Bob; Weidemann, Alan; Bryant, Danielle; Grembowicz, Ken; Mangin, Samuel R.; Mahoney, Kevin; Torres, Marc</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Glider Optical Measurements and BUFR Format for Data QC and Storage</TI>
+   <SO>OCEAN SENSING AND MONITORING II</SO>
+   <SE>Proceedings of SPIE-The International Society for Optical Engineering</SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Proceedings Paper</DT>
+   <CT>Conference on Ocean Sensing and Monitoring II</CT>
+   <CY>APR 05-06, 2010</CY>
+   <CL>Orlando, FL</CL>
+   <SP>SPIE</SP>
+   <HO></HO>
+   <DE></DE>
+   <ID></ID>
+   <AB>Unmanned underwater vehicles are becoming an increasingly important platform in oceanographic research and operational oceanography, where continuous in situ sampling throughout the water column is essential to understanding the ocean circulation and related biological, chemical, and optical activity. The latter directly affects field operations and remote sensing capabilities from space. A unified approach is necessary for data quality control (QC), access, and storage, considering the vast amount of data collected from gliders continuously deployed across large areas and over long durations. The Binary Universal Form for the Representation of meteorological data (BUFR) maintained by the World Meteorological Organization (WMO) is adapted to include physical and optical parameters from a variety of sensor suites onboard underwater vehicles. The provisional BUFR template and related BUFR descriptors and table entries have been developed by the U. S. Navy for ocean glider profile data and QC results. Software written in FORTRAN using the ECMWF BUFRDC library has been implemented to perform both the encoding and decoding of BUFR files from and to Network Common Data Form (NetCDF) files. This presentation also discusses data collected from sensors on gliders deployed both in deep water and shallow water environments, including issues specific to optical sensors at various depths.</AB>
+   <C1>[Hou, Weilin (Will); Carnes, Michael; Burrage, Derek; Arnone, Bob; Weidemann, Alan] USN, Res Lab, Stennis Space Ctr, MS 39529 USA</C1>
+   <RP>Hou, WL (reprint author), USN, Res Lab, Stennis Space Ctr, MS 39529 USA.</RP>
+   <EM></EM>
+   <RI></RI>
+   <OI></OI>
+   <FU></FU>
+   <FX></FX>
+   <CR></CR>
+   <NR>4</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>SPIE-INT SOC OPTICAL ENGINEERING</PU>
+   <PI>BELLINGHAM</PI>
+   <PA>1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA</PA>
+   <SN>0277-786X</SN>
+   <EI></EI>
+   <BN>978-0-8194-8142-9</BN>
+   <J9>P SOC PHOTO-OPT INS</J9>
+   <JI></JI>
+   <PD></PD>
+   <PY>2010</PY>
+   <VL>7678</VL>
+   <IS></IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>76780F</AR>
+   <DI>10.1117/12.851361</DI>
+   <D2></D2>
+   <PG>7</PG>
+   <WC>Remote Sensing; Optics; Imaging Science & Photographic Technology</WC>
+   <SC>Remote Sensing; Optics; Imaging Science & Photographic Technology</SC>
+   <GA>BSS29</GA>
+   <UT>WOS:000285624000013</UT>
+   <PM></PM>
+</bibliography>

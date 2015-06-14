@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Liu, H; Bedau, D; Sun, JZ; Mangin, S; Fullerton, EE; Katine, JA; Kent, AD</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Liu, H.; Bedau, D.; Sun, J. Z.; Mangin, S.; Fullerton, E. E.; Katine, J. A.; Kent, A. D.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Dynamics of spin torque switching in all-perpendicular spin valve nanopillars</TI>
+   <SO>JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE>Ballistic magnetization reversal; Giant magnetoresistance; Macrospin dynamics; Magnetic random access memory; Magnetization dynamics; Magnetization reversal; Perpendicular magnetic anisotropy; Spin transfer torque; Spin transfer torque switching; Spin valve; Spintronics</DE>
+   <ID>MAGNETIZATION REVERSAL; ANISOTROPY; PILLARS</ID>
+   <AB>We present a systematic experimental study of the spin-torque-induced magnetic switching statistics at room temperature, using all-perpendicularly magnetized spin-valves as a model system. Three physical regimes are distinguished: a short-time ballistic limit below a few nanoseconds, where spin-torque dominates the reversal dynamics from a thermal distribution of initial conditions; a long time limit, where the magnetization reversal probability is determined by spin-torque-amplified thermal activation; and a cross-over regime, where the spin-torque and thermal agitation both contribute. For a basic quantitative understanding of the physical processes involved, an analytical macrospin model is presented which contains both spin-torque dynamics and finite temperature effects. The latter was treated rigorously using a Fokker-Plank formalism, and solved numerically for specific sets of parameters relevant to the experiments to determine the switching probability behavior in the short time and cross over regimes. This analysis shows that thermal fluctuations during magnetization reversal greatly affect the switching probability over all the time scales studied, even in the short time limit. (C) 2014 Elsevier B.V. All rights reserved,</AB>
+   <C1>[Liu, H.; Bedau, D.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Sun, J. Z.] IBM Corp, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA; [Mangin, S.] Univ Lorraine, Inst Jean Lamour, CNRS, UMR 7198, Vandoeuvre Les Nancy, France; [Fullerton, E. E.] Univ Calif San Diego, CMRR, La Jolla, CA 92093 USA; [Bedau, D.; Katine, J. A.] HGST San Jose Res Ctr, San Jose, CA 95135 USA</C1>
+   <RP>Kent, AD (reprint author), NYU, Dept Phys, 4 Washington Pl, New York, NY 10003 USA.</RP>
+   <EM>andy.kent@nyu.edu</EM>
+   <RI>Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>NYU by NSF [DMR-1006575, NSF-DMR-1309202]; Partner University Fund (PUF) of the Embassy of France</FU>
+   <FX>This research was supported at NYU by NSF Grant nos. DMR-1006575 and NSF-DMR-1309202, as well as the Partner University Fund (PUF) of the Embassy of France.</FX>
+   <CR></CR>
+   <NR>35</NR>
+   <TC>3</TC>
+   <Z9>3</Z9>
+   <PU>ELSEVIER SCIENCE BV</PU>
+   <PI>AMSTERDAM</PI>
+   <PA>PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS</PA>
+   <SN>0304-8853</SN>
+   <EI>1873-4766</EI>
+   <BN></BN>
+   <J9>J MAGN MAGN MATER</J9>
+   <JI>J. Magn. Magn. Mater.</JI>
+   <PD>MAY</PD>
+   <PY>2014</PY>
+   <VL>358</VL>
+   <IS></IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP>233</BP>
+   <EP>258</EP>
+   <AR></AR>
+   <DI>10.1016/j.jmmm.2014.01.061</DI>
+   <D2></D2>
+   <PG>26</PG>
+   <WC>Materials Science, Multidisciplinary; Physics, Condensed Matter</WC>
+   <SC>Materials Science; Physics</SC>
+   <GA>AC3CV</GA>
+   <UT>WOS:000332393500038</UT>
+   <PM></PM>
+</bibliography>

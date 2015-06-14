@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>S</PT>
+   <AU>Ibrahim, M; Claudel, J; Kourtiche, D; Nadi, M; Montaigne, F</AU>
+   <BA></BA>
+   <BE>Jobbagy, A</BE>
+   <GP></GP>
+   <AF>Ibrahim, M.; Claudel, J.; Kourtiche, D.; Nadi, M.; Montaigne, F.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Optimization of an Interdigitated Electrodes Array Used in Bioimpedance Spectroscopy</TI>
+   <SO>5TH EUROPEAN CONFERENCE OF THE INTERNATIONAL FEDERATION FOR MEDICAL AND BIOLOGICAL ENGINEERING, PTS 1 AND 2</SO>
+   <SE>IFMBE Proceedings</SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Proceedings Paper</DT>
+   <CT>5th European Conference of the International Federation for Medical and Biological Engineering</CT>
+   <CY>SEP 14-18, 2011</CY>
+   <CL>Budapest, HUNGARY</CL>
+   <SP></SP>
+   <HO></HO>
+   <DE>FEM Simulation; Planar Interdigitated Electrodes; Bioimpedance spectroscopy; Modeling; Biosensor</DE>
+   <ID>SENSORS</ID>
+   <AB>This paper concerns physical model of interdigitated sensor in the frequency range 10(2)-10(7) Hz. A theoretical approach is proposed to optimize the use of the sensor for bioimpedance spectroscopy. CoventorWare (R) software was used to modelize in three dimensions the interdigital sensor system for measuring electrical impedance of biological medium. Complete system simulation by Finite element method (FEM) was used for sensor sensitivity optimization. The influence of geometrical parameters (number of fingers, width of the electrodes), on the impedance spectroscopy of biological medium was studied.</AB>
+   <C1>[Ibrahim, M.; Claudel, J.; Kourtiche, D.; Nadi, M.] Nancy Univ, LIEN, Fac Sci & Technol, F-54506 Vandoeuvre Les Nancy, France</C1>
+   <RP>Ibrahim, M (reprint author), Nancy Univ, LIEN, Fac Sci & Technol, BP 70239,Blvd Aiguillettes, F-54506 Vandoeuvre Les Nancy, France.</RP>
+   <EM>mouhamad.ibrahim@lien.uhp-nancy.fr</EM>
+   <RI></RI>
+   <OI></OI>
+   <FU></FU>
+   <FX></FX>
+   <CR></CR>
+   <NR>9</NR>
+   <TC>0</TC>
+   <Z9>0</Z9>
+   <PU>SPRINGER</PU>
+   <PI>NEW YORK</PI>
+   <PA>233 SPRING STREET, NEW YORK, NY 10013, UNITED STATES</PA>
+   <SN>1680-0737</SN>
+   <EI></EI>
+   <BN>978-3-642-23507-8</BN>
+   <J9>IFMBE PROC</J9>
+   <JI></JI>
+   <PD></PD>
+   <PY>2012</PY>
+   <VL>37</VL>
+   <IS></IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP>1279</BP>
+   <EP>1282</EP>
+   <AR></AR>
+   <DI></DI>
+   <D2></D2>
+   <PG>4</PG>
+   <WC>Engineering, Biomedical</WC>
+   <SC>Engineering</SC>
+   <GA>BCP21</GA>
+   <UT>WOS:000310938200331</UT>
+   <PM></PM>
+</bibliography>

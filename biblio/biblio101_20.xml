@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Tudosa, I; Katine, JA; Mangin, S; Fullerton, EE</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Tudosa, Ioan; Katine, Jordan A.; Mangin, Stephane; Fullerton, Eric E.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Current Induced Switching of the Hard Layer in Perpendicular Magnetic Nanopillars</TI>
+   <SO>IEEE TRANSACTIONS ON MAGNETICS</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE>Critical currents; perpendicular magnetic anisotropy; spin polarized transport; spin valves</DE>
+   <ID>SPIN-TRANSFER TORQUES; DRIVEN</ID>
+   <AB>We report the spin-torque switching of the magnetization of the reference layer in a perpendicular magnetic anisotropy nanopillar with a spin-valve structure made of a combination of [Co/Pd] and [Co/Ni] multilayers. Around critical current, the switching is random, but becomes deterministic for larger currents. The threshold current is different for the two current directions, which shows that heating is not the main driving force but the spin torque interactions. A possible memory application is to store the magnetic bit in the magnetization of the hard magnetic reference layer and use the soft free layer to read and write it.</AB>
+   <C1>[Tudosa, Ioan; Fullerton, Eric E.] Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA; [Katine, Jordan A.] Hitachi Global Storage Technol, San Jose, CA 95120 USA; [Mangin, Stephane] Nancy Univ, Inst Jean Lamour, CNRS UMR 7198, F-54506 Vandoeuvre Les Nancy, France</C1>
+   <RP>Fullerton, EE (reprint author), Univ Calif San Diego, Ctr Magnet Recording Res, La Jolla, CA 92093 USA.</RP>
+   <EM>efullerton@ucsd.edum</EM>
+   <RI>Gastelois, Pedro/F-3891-2012; Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU></FU>
+   <FX></FX>
+   <CR></CR>
+   <NR>11</NR>
+   <TC>1</TC>
+   <Z9>1</Z9>
+   <PU>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</PU>
+   <PI>PISCATAWAY</PI>
+   <PA>445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA</PA>
+   <SN>0018-9464</SN>
+   <EI></EI>
+   <BN></BN>
+   <J9>IEEE T MAGN</J9>
+   <JI>IEEE Trans. Magn.</JI>
+   <PD>JUN</PD>
+   <PY>2010</PY>
+   <VL>46</VL>
+   <IS>6</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP>2328</BP>
+   <EP>2330</EP>
+   <AR></AR>
+   <DI>10.1109/TMAG.2010.2042932</DI>
+   <D2></D2>
+   <PG>3</PG>
+   <WC>Engineering, Electrical & Electronic; Physics, Applied</WC>
+   <SC>Engineering; Physics</SC>
+   <GA>601DH</GA>
+   <UT>WOS:000278037800272</UT>
+   <PM></PM>
+</bibliography>

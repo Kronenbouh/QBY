@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliography>
+   <PT>J</PT>
+   <AU>Gopman, DB; Bedau, D; Mangin, S; Fullerton, EE; Katine, JA; Kent, AD</AU>
+   <BA></BA>
+   <BE></BE>
+   <GP></GP>
+   <AF>Gopman, D. B.; Bedau, D.; Mangin, S.; Fullerton, E. E.; Katine, J. A.; Kent, A. D.</AF>
+   <BF></BF>
+   <CA></CA>
+   <TI>Switching field distributions with spin transfer torques in perpendicularly magnetized spin-valve nanopillars</TI>
+   <SO>PHYSICAL REVIEW B</SO>
+   <SE></SE>
+   <BS></BS>
+   <LA>English</LA>
+   <DT>Article</DT>
+   <CT></CT>
+   <CY></CY>
+   <CL></CL>
+   <SP></SP>
+   <HO></HO>
+   <DE></DE>
+   <ID>CO/NI MULTILAYERS; ANISOTROPY; TIME</ID>
+   <AB>We present switching field distributions of spin-transfer-assisted magnetization reversal in perpendicularly magnetized Co/Ni multilayer spin-valve nanopillars at room temperature. Switching field measurements of the Co/Ni free layer of spin-valve nanopillars with a 50 nm x 300 nm ellipse cross section were conducted as a function of current. The validity of a model that assumes a spin-current-dependent effective barrier for thermally activated reversal is tested by measuring switching field distributions under applied direct currents. We show that the switching field distributions deviate significantly from the double exponential shape predicted by the effective barrier model, beginning at applied currents as low as half of the zero field critical current. Barrier heights extracted from switching field distributions for currents below this threshold are a monotonic function of the current. However, the thermally induced switching model breaks down for currents exceeding the critical threshold.</AB>
+   <C1>[Gopman, D. B.; Kent, A. D.] NYU, Dept Phys, New York, NY 10003 USA; [Bedau, D.; Katine, J. A.] HGST San Jose Res Ctr, San Jose, CA 95135 USA; [Mangin, S.] Univ Lorraine, Inst Jean Lamour, UMR CNRS Nancy 7198, Nancy, France; [Fullerton, E. E.] Univ Calif San Diego, CMRR, La Jolla, CA 92093 USA</C1>
+   <RP>Gopman, DB (reprint author), NYU, Dept Phys, 4 Washington Pl, New York, NY 10003 USA.</RP>
+   <EM>daniel.gopman@physics.nyu.edu</EM>
+   <RI>Fullerton, Eric/H-8445-2013</RI>
+   <OI>Fullerton, Eric/0000-0002-4725-9509</OI>
+   <FU>NSF [DMR-1006575, NSF-DMR-1309202, DMR-1008654]; Partner University Fund (PUF) of the Embassy of France; European Project [OP2M FP7-IOF-2011-298060]; Region Lorraine;  [ANR-10-BLANC-1005]</FU>
+   <FX>This research was supported at NYU by NSF Grants No. DMR-1006575 and No. NSF-DMR-1309202, as well as the Partner University Fund (PUF) of the Embassy of France. Research at UL supported by ANR-10-BLANC-1005 "Friends," the European Project (OP2M FP7-IOF-2011-298060), and the Region Lorraine. Work at UCSD supported by NSF Grant No. DMR-1008654.</FX>
+   <CR></CR>
+   <NR>35</NR>
+   <TC>1</TC>
+   <Z9>1</Z9>
+   <PU>AMER PHYSICAL SOC</PU>
+   <PI>COLLEGE PK</PI>
+   <PA>ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA</PA>
+   <SN>1098-0121</SN>
+   <EI>1550-235X</EI>
+   <BN></BN>
+   <J9>PHYS REV B</J9>
+   <JI>Phys. Rev. B</JI>
+   <PD>APR 28</PD>
+   <PY>2014</PY>
+   <VL>89</VL>
+   <IS>13</IS>
+   <PN></PN>
+   <SU></SU>
+   <SI></SI>
+   <MA></MA>
+   <BP></BP>
+   <EP></EP>
+   <AR>134427</AR>
+   <DI>10.1103/PhysRevB.89.134427</DI>
+   <D2></D2>
+   <PG>7</PG>
+   <WC>Physics, Condensed Matter</WC>
+   <SC>Physics</SC>
+   <GA>AI9XH</GA>
+   <UT>WOS:000337298900004</UT>
+   <PM></PM>
+</bibliography>
