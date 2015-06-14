@@ -3,7 +3,6 @@ package benj.utils;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
@@ -20,8 +19,7 @@ public class FileUtils {
 	
 	public static String toCanonicalPath(String path) { return path.replace(File.separatorChar,'/'); }
 	
-	public static void ensureExists(String dirPath) {
-		File dir = new File(dirPath);
+	public static void ensureExists(File dir) {
 		if(!dir.exists()) dir.mkdirs();
 	}
 
@@ -45,11 +43,6 @@ public class FileUtils {
 		String path = file.getAbsolutePath();
 		int lastDot = path.lastIndexOf('.');
 		return new File((lastDot < 0 ? path : path.substring(0,lastDot)) + extension);
-	}
-	
-	public static Path getPathRelativeToClass(Class<?> clazz, String path) {
-		String name = clazz.getCanonicalName();
-		return Paths.get(currentDirectory()).resolve(Paths.get(name.substring(0,name.lastIndexOf('.') + 1).replace('.','/') + path));
 	}
 	
 	public static String readAllFile(String path) throws IOException {

@@ -1,7 +1,5 @@
 package benj;
 
-import static benj.utils.FileUtils.getPathRelativeToClass;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -16,8 +14,26 @@ import java.util.regex.Pattern;
 import benj.utils.FileUtils;
 
 public class Concordance {
+	private Concordance() { }
 	
-	public static void compare(String path, List<String> dico, File out) throws IOException {
+	public static void make(int nBiblios) {
+		List<String> words = new ArrayList<>();
+		
+		try (BufferedReader br = Files.newBufferedReader(Outputs.DICO_FILE.toPath())) {
+			String line;
+			while((line = br.readLine()) != null) words.add(line);
+			
+			File out = Outputs.CONCORDANCE_FILE;
+			for(int i=1 ; i<=nBiblios ; i++) {
+				String path = Outputs.ABSTRACT_PATH + String.format("biblio101_%s.txt",i);
+				compare(path,words,out);
+			}
+		} catch (IOException e) {
+			throw new RuntimeException(e);
+		}
+	}
+	
+	private static void compare(String path, List<String> dico, File out) throws IOException {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(out,true))) {
 	        String lines = FileUtils.readAllFile(path);
 	        
@@ -32,23 +48,5 @@ public class Concordance {
 				}
 			}
         }
-	}
-	
-	public static void make(String inPath, String outPath, int nBiblios) {
-		
-		List<String> words = new ArrayList<>();
-		
-		try (BufferedReader br = Files.newBufferedReader(getPathRelativeToClass(Concordance.class,"data/dico.txt"))) {
-			String line;
-			while((line = br.readLine()) != null) words.add(line);
-			
-			File out = new File(outPath + "/data/concordance.txt");
-			for(int i=1 ; i<=nBiblios ; i++) {
-				String path = String.format("%s/data/abstract/biblio101_%s.txt",outPath,i);
-				compare(path,words,out);
-			}
-		} catch (IOException e) {
-			throw new RuntimeException(e);
-		}
 	}
 }

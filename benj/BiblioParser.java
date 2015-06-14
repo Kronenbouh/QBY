@@ -13,15 +13,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class BiblioParser {
-	public static void extract(String inPath, String outPath, int nBiblios) {
-    	File relation = new File(outPath+"/data/relation.txt");
-    	
+	public static void extract(int nBiblios) {
     	for(int i=1 ; i<=nBiblios ; i++) {
     		try {
-	    		File   biblio  = new File(outPath + String.format("/data/abstract/biblio101_%s.txt",i));
-	    		String xmlPath = inPath + String.format("/biblio/biblio101_%s.xml",i);
+	    		File   biblio  = new File(Outputs.BASE_PATH + String.format("biblio101_%s.txt",i));
+	    		String xmlPath = Inputs.BIBLIO_PATH + String.format("biblio101_%s.xml",i);
 	    		
-				extractAUandWC(xmlPath,";",relation);
+				extractAUandWC(xmlPath,";",Outputs.RELATION_FILE);
 	        	extractAB(xmlPath,biblio);
     		} catch (IOException e) {
     			throw new RuntimeException(e);

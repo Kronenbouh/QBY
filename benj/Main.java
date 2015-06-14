@@ -1,15 +1,14 @@
 package benj;
 
 import static benj.math.MathUtils.isZero;
-import static benj.utils.FileUtils.canonicalCurrentDirectory;
 import static benj.utils.FileUtils.ensureExists;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
@@ -29,8 +28,8 @@ import benj.utils.FileUtils;
 public class Main {	
 	private static final int INFINITY = 100000;
 	
-	public static TriMatrix<String> mat(String outPath) throws IOException {
-		try (BufferedReader br = new BufferedReader(new InputStreamReader(Main.class.getResourceAsStream(outPath + "/data/dist.txt")))) {
+	public static TriMatrix<String> mat() throws IOException {
+		try (BufferedReader br = new BufferedReader(new FileReader(Outputs.DIST_FILE))) {
 			Pattern           separator = Pattern.compile(";");
 			String            title     = br.readLine();		
 			String[]          obj       = separator.split(title);
@@ -58,8 +57,8 @@ public class Main {
 		}
 	}
 		
-	public static Matrix<String> find(String which, int scope, String outPath) throws IOException{
-		TriMatrix<String> distMat  = mat(outPath);
+	public static Matrix<String> find(String which, int scope) throws IOException{
+		TriMatrix<String> distMat  = mat();
 		List<String>      firstRow = distMat.getRow(0);
 		
 		List<Float>                values          = fillWithNeighbours(which,distMat,firstRow);
@@ -99,10 +98,10 @@ public class Main {
 		return isZero(f) ? INFINITY : 1/f;
 	}
 	
-	private static void writeGraph(String which, int max, String inPath, String outPath) throws IOException  {
-		Matrix<String> toWrite = find(which, max, outPath);
+	private static void writeGraph(String which, int max) throws IOException  {
+		Matrix<String> toWrite = find(which, max);
 		
-		File out = new File(outPath + "graph.neato");
+		File out = Outputs.GRAPH_FILE;
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(out))) {
 	        bw.write("graph G{\n");
 	        bw.write("\tnode[fontsize=5]\n");
@@ -120,7 +119,7 @@ public class Main {
 	        bw.write("}");
         }
         
-        ProcessBuilder pb = new ProcessBuilder("fdp","-Tpdf",out.getAbsolutePath(),"-o",FileUtils.toExtension(out,".pdf").getAbsolutePath());
+        ProcessBuilder pb = new ProcessBuilder("neato","-Tpdf",out.getAbsolutePath(),"-o",FileUtils.toExtension(out,".pdf").getAbsolutePath());
         pb.start();
 	}
 	
@@ -133,22 +132,21 @@ public class Main {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		String inPath  = canonicalCurrentDirectory();
-		String outPath = inPath + "/output";
-		ensureExists(outPath + "/data/abstract");
+		ensureExists(Outputs.DATA_DIR);
+		ensureExists(Outputs.ABSTRACT_DIR);
 		
-		File biblioDir = new File(inPath + "/biblio/");
+		File biblioDir = Inputs.BIBLIO_DIR;
     	int  nBiblios  = biblioDir.list().length;
 		
-    	updateIfNecessary(new File(outPath + "/data/relation.txt"), "Avez-vous ajouté de nouveaux textes bruts ?", () -> {
-    		BiblioParser.extract(inPath,outPath,nBiblios);
-			Concordance.make(inPath,outPath,nBiblios);
+    	updateIfNecessary(Outputs.RELATION_FILE, "Avez-vous ajouté de nouveaux textes bruts ?", () -> {
+    		BiblioParser.extract(nBiblios);
+			Concordance.make(nBiblios);
     	});
-		updateIfNecessary(new File(outPath + "/data/dist.txt"), "Voulez-vous recalculer les distances ?", 
-				() -> ExternalRCaller.buildDistanceMatrix(inPath,outPath));
+		updateIfNecessary(Outputs.DIST_FILE, "Voulez-vous recalculer les distances ?", 
+				() -> ExternalRCaller.buildDistanceMatrix());
 		
 		String toFind = "Schneider, C";
-		writeGraph(toFind,10,inPath,outPath);
+		writeGraph(toFind,10);
 	}
 
 	private static void updateIfNecessary(File f, String msg, Runnable update) {
