@@ -26,11 +26,11 @@ import benj.math.SimpleMatrix;
 import benj.math.TriMatrix;
 import benj.utils.FileUtils;
 
-public class Dist {	
+public class Main {	
 	private static final int INFINITY = 100000;
 	
 	public static TriMatrix<String> mat(String outPath) throws IOException {
-		try (BufferedReader br = new BufferedReader(new InputStreamReader(Dist.class.getResourceAsStream(outPath + "/data/dist.txt")))) {
+		try (BufferedReader br = new BufferedReader(new InputStreamReader(Main.class.getResourceAsStream(outPath + "/data/dist.txt")))) {
 			Pattern           separator = Pattern.compile(";");
 			String            title     = br.readLine();		
 			String[]          obj       = separator.split(title);
@@ -141,10 +141,11 @@ public class Dist {
     	int  nBiblios  = biblioDir.list().length;
 		
     	updateIfNecessary(new File(outPath + "/data/relation.txt"), "Avez-vous ajouté de nouveaux textes bruts ?", () -> {
-    		Extract.doExtract(inPath,outPath,nBiblios);
+    		BiblioParser.extract(inPath,outPath,nBiblios);
 			Concordance.make(inPath,outPath,nBiblios);
     	});
-		updateIfNecessary(new File(outPath + "/data/dist.txt"), "Voulez-vous recalculer les distances ?", () -> ExternalRCaller.buildDistanceMatrix(inPath,outPath));
+		updateIfNecessary(new File(outPath + "/data/dist.txt"), "Voulez-vous recalculer les distances ?", 
+				() -> ExternalRCaller.buildDistanceMatrix(inPath,outPath));
 		
 		String toFind = "Schneider, C";
 		writeGraph(toFind,10,inPath,outPath);
