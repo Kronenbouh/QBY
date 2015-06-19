@@ -16,7 +16,7 @@ public class Outputs {
 
 	public static final File	RELATION_FILE		= new File(DATA_PATH + "relation.txt");
 	public static final File	DIST_FILE			= new File(DATA_PATH + "dist.txt");
-	public static final File	DICO_FILE			= new File(DATA_PATH + "dico.txt");
+	
 	public static final File	CONCORDANCE_FILE	= new File(DATA_PATH + "concordance.txt");
 	public static final File	GRAPH_FILE			= new File(BASE_PATH + "graph.neato");
 	public static final File	R_OUTPUT_FILE		= new File(BASE_PATH + "test.txt");

@@ -16,7 +16,7 @@ public class BiblioParser {
 	public static void extract(int nBiblios) {
     	for(int i=1 ; i<=nBiblios ; i++) {
     		try {
-	    		File   biblio  = new File(Outputs.BASE_PATH + String.format("biblio101_%s.txt",i));
+	    		File   biblio  = new File(Outputs.ABSTRACT_PATH + String.format("biblio101_%s.txt",i));
 	    		String xmlPath = Inputs.BIBLIO_PATH + String.format("biblio101_%s.xml",i);
 	    		
 				extractAUandWC(xmlPath,";",Outputs.RELATION_FILE);

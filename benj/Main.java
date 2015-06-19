@@ -9,8 +9,10 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.NoSuchElementException;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -87,6 +89,8 @@ public class Main {
 	private static List<Float> fillWithNeighbours(String which, TriMatrix<String> mat, List<String> row) {
 		List<Float> values = new ArrayList<>();
 		int         where  = row.indexOf(which);
+		if(where<0)
+			throw new NoSuchElementException("Cet objet n'existe pas : "+which);
 		for(int i=1       ; i<=where     ; i++) values.add(Float.parseFloat(mat.get(i      ,where)));
 		for(int j=where+1 ; j<row.size() ; j++) values.add(Float.parseFloat(mat.get(where+1,j    )));
 		row.remove(which);
@@ -106,16 +110,18 @@ public class Main {
 	        bw.write("graph G{\n");
 	        bw.write("\tnode[fontsize=5]\n");
 	        bw.write("\t[style=filled]\n");
-	        bw.write("\t"+"\""+which+"\""+"[fillcolor=\"red\"]\n");
+	        bw.write("\t"+"\""+which+"\""+"[fillcolor=\"red\"][fontcolor=\"white\"]\n");
 	        bw.write("\t[pack=false]\n");
 	        bw.write("\t[defaultdist=0]\n");
-	        for (int k=0 ; k<toWrite.nRows() ; k++)
-	        	bw.write(String.format("\t\"%s\"--\"%s\" [len=%f][weight=%f][color=%s]\n",
+	        for (int k=0 ; k<toWrite.nCols() ; k++) {	
+				String dist = toWrite.get(1,k);
+				bw.write(String.format("\t\"%s\"--\"%s\" [len=%s][weight=%s][color=%s]\n",
 	        			which,
 	        			toWrite.get(0,k),
-	        			computeLen(toWrite.get(1,k)),
-	        			computeWeight(toWrite.get(1,k)),
-	        			decideColor(toWrite.get(1,k))));
+	        			formatFloat(computeLen(dist)),
+	        			formatFloat(computeWeight(dist)),
+	        			decideColor(dist)));
+			}
 	        bw.write("}");
         }
         
@@ -128,25 +134,33 @@ public class Main {
 	}
 	
 	private static float computeLen(String toParse)throws IOException{
-		return 50*(0.01f + Float.parseFloat(toParse));
+		return(1 + Float.parseFloat(toParse));
+	}
+	
+	private static String formatFloat(float toDeParse)throws IOException{
+		return(String.valueOf(toDeParse).replace(',','.'));
 	}
 	
 	public static void main(String[] args) throws IOException {
-		ensureExists(Outputs.DATA_DIR);
-		ensureExists(Outputs.ABSTRACT_DIR);
-		
-		File biblioDir = Inputs.BIBLIO_DIR;
-    	int  nBiblios  = biblioDir.list().length;
-		
-    	updateIfNecessary(Outputs.RELATION_FILE, "Avez-vous ajouté de nouveaux textes bruts ?", () -> {
-    		BiblioParser.extract(nBiblios);
-			Concordance.make(nBiblios);
-    	});
-		updateIfNecessary(Outputs.DIST_FILE, "Voulez-vous recalculer les distances ?", 
-				() -> ExternalRCaller.buildDistanceMatrix());
-		
-		String toFind = "Schneider, C";
-		writeGraph(toFind,10);
+		try{
+			ensureExists(Outputs.DATA_DIR);
+			ensureExists(Outputs.ABSTRACT_DIR);
+			
+			File biblioDir = Inputs.BIBLIO_DIR;
+	    	int  nBiblios  = biblioDir.list().length;
+			
+	    	updateIfNecessary(Outputs.RELATION_FILE, "Avez-vous ajouté de nouveaux textes bruts ?", () -> {
+	    		BiblioParser.extract(nBiblios);
+				Concordance.make(nBiblios);
+	    	});
+			updateIfNecessary(Outputs.DIST_FILE, "Voulez-vous recalculer les distances ?", 
+					() -> ExternalRCaller.buildDistanceMatrix());
+			
+			writeGraph(Files.readAllLines(Inputs.SEARCH_FILE.toPath()).get(0),10);
+		}
+		catch(Throwable t){
+			JOptionPane.showMessageDialog(null,t.getMessage(),"An error has occured",JOptionPane.ERROR_MESSAGE);
+		}
 	}
 
 	private static void updateIfNecessary(File f, String msg, Runnable update) {

@@ -19,7 +19,7 @@ public class Concordance {
 	public static void make(int nBiblios) {
 		List<String> words = new ArrayList<>();
 		
-		try (BufferedReader br = Files.newBufferedReader(Outputs.DICO_FILE.toPath())) {
+		try (BufferedReader br = Files.newBufferedReader(Inputs.DICO_FILE.toPath())) {
 			String line;
 			while((line = br.readLine()) != null) words.add(line);
 			
